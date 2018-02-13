@@ -9,20 +9,20 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22.5776mm"
-   height="22.57753mm"
-   viewBox="0 0 79.999372 79.999121"
+   width="1024"
+   height="1024"
+   viewBox="0 0 959.99999 959.99998"
    id="svg4882"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="parity-brandmark11.svg">
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="parity-brandmark-v3.svg">
   <defs
      id="defs4884">
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath4170">
       <path
-         d="m 1386.873,641.0668 31.2464,0 0,7.58768 -31.2464,0 0,-7.58768 z"
+         d="m 1386.873,641.0668 h 31.2464 v 7.58768 h -31.2464 z"
          id="path4172"
          inkscape:connector-curvature="0" />
     </clipPath>
@@ -30,7 +30,7 @@
        clipPathUnits="userSpaceOnUse"
        id="clipPath4130">
       <path
-         d="m 1386.873,655.2391 31.2464,0 0,7.58768 -31.2464,0 0,-7.58768 z"
+         d="m 1386.873,655.2391 h 31.2464 v 7.58768 h -31.2464 z"
          id="path4132"
          inkscape:connector-curvature="0" />
     </clipPath>
@@ -38,7 +38,7 @@
        clipPathUnits="userSpaceOnUse"
        id="clipPath4118">
       <path
-         d="m 1370,621 63.9995,0 0,63.9997 -63.9995,0 0,-63.9997 z"
+         d="m 1370,621 h 63.9995 v 63.9997 H 1370 Z"
          id="path4120"
          inkscape:connector-curvature="0" />
     </clipPath>
@@ -46,7 +46,7 @@
        clipPathUnits="userSpaceOnUse"
        id="clipPath4074">
       <path
-         d="m 1370,621 64,0 0,64 -64,0 0,-64 z"
+         d="m 1370,621 h 64 v 64 h -64 z"
          id="path4076"
          inkscape:connector-curvature="0" />
     </clipPath>
@@ -54,7 +54,7 @@
        clipPathUnits="userSpaceOnUse"
        id="clipPath4062">
       <path
-         d="m 1370,621 63.9995,0 0,63.9997 -63.9995,0 0,-63.9997 z"
+         d="m 1370,621 h 63.9995 v 63.9997 H 1370 Z"
          id="path4064"
          inkscape:connector-curvature="0" />
     </clipPath>
@@ -66,9 +66,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16.875186"
-     inkscape:cx="39.999687"
-     inkscape:cy="39.999567"
+     inkscape:zoom="0.52734956"
+     inkscape:cx="264.34234"
+     inkscape:cy="505.78972"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -76,11 +76,12 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="2560"
-     inkscape:window-height="1657"
+     inkscape:window-width="1364"
+     inkscape:window-height="742"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     units="px" />
   <metadata
      id="metadata4887">
     <rdf:RDF>
@@ -97,9 +98,16 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-205.7146,-238.07698)">
+     transform="translate(-205.7146,641.92388)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.87155807;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647"
+       id="rect2929"
+       width="960"
+       height="960"
+       x="207.78409"
+       y="-640.04889" />
     <g
-       transform="matrix(1.25,0,0,-1.25,-1506.7854,1094.3266)"
+       transform="matrix(13.944402,0,0,-13.944402,-18858.742,8955.0554)"
        id="g4058">
       <g
          id="g4060"
@@ -116,7 +124,7 @@
       </g>
     </g>
     <g
-       transform="matrix(1.25,0,0,-1.25,-1506.7854,1094.3266)"
+       transform="matrix(13.944402,0,0,-13.944402,-18858.742,8955.0554)"
        id="g4070">
       <g
          id="g4072"
@@ -205,7 +213,7 @@
       </g>
     </g>
     <g
-       transform="matrix(1.25,0,0,-1.25,-1506.7854,1094.3266)"
+       transform="matrix(13.944402,0,0,-13.944402,-18858.742,8955.0554)"
        id="g4114">
       <g
          id="g4116"
@@ -222,7 +230,7 @@
       </g>
     </g>
     <g
-       transform="matrix(1.25,0,0,-1.25,-1506.7854,1094.3266)"
+       transform="matrix(13.944402,0,0,-13.944402,-18858.742,8955.0554)"
        id="g4126">
       <g
          id="g4128"
@@ -302,7 +310,7 @@
       </g>
     </g>
     <g
-       transform="matrix(1.25,0,0,-1.25,-1506.7854,1094.3266)"
+       transform="matrix(13.944402,0,0,-13.944402,-18858.742,8955.0554)"
        id="g4166">
       <g
          id="g4168"
