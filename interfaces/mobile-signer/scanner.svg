@@ -1,0 +1,2801 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="6000"
+   height="5800"
+   viewBox="0 0 1587.4999 1534.5834"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="scanner.svg">
+  <defs
+     id="defs2">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern88371-3"
+       id="pattern7921"
+       patternTransform="matrix(0.05770724,-0.00142609,0.00122117,0.04874929,881.77059,-490.30759)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern88371-3"
+       id="pattern9083"
+       patternTransform="matrix(0.05770724,-0.00142609,0.00122117,0.04874929,1270.7646,-1133.0046)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern87797"
+       id="pattern237384"
+       patternTransform="matrix(0.05770724,-0.00142609,0.00122117,0.04874929,496.69872,-489.53942)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern6740"
+       id="pattern88371"
+       patternTransform="matrix(0.05770724,-0.00142609,0.00122117,0.04874929,1647.5776,-209.99011)" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4170">
+      <path
+         d="m 1386.873,641.0668 h 31.2464 v 7.58768 h -31.2464 z"
+         id="path4172"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4130">
+      <path
+         d="m 1386.873,655.2391 h 31.2464 v 7.58768 h -31.2464 z"
+         id="path4132"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4118">
+      <path
+         d="m 1370,621 h 63.9995 v 63.9997 H 1370 Z"
+         id="path4120"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4074">
+      <path
+         d="m 1370,621 h 64 v 64 h -64 z"
+         id="path4076"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4062">
+      <path
+         d="m 1370,621 h 63.9995 v 63.9997 H 1370 Z"
+         id="path4064"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3549">
+      <path
+         d="m 551.0085,479.9361 h 325.5758 v 79.24058 H 551.0085 Z"
+         id="path3551"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3481">
+      <path
+         d="m 551.0085,627.9283 h 325.5758 v 79.24298 H 551.0085 Z"
+         id="path3483"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3393">
+      <path
+         d="m 381,263 h 668 V 937 H 381 Z"
+         id="path3395"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3381">
+      <path
+         d="m 381,263 h 668 V 937 H 381 Z"
+         id="path3383"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <symbol
+       id="icon-camera"
+       viewBox="0 0 30 28">
+      <title
+         id="title13665">camera</title>
+      <path
+         style="stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         d="m 3.96875,2.778125 c 0.657225,0 1.190625,0.5334 1.190625,1.190625 0,0.657225 -0.5334,1.190625 -1.190625,1.190625 -0.657225,0 -1.190625,-0.5334 -1.190625,-1.190625 0,-0.657225 0.5334,-1.190625 1.190625,-1.190625 z M 6.8791667,1.0583333 c 0.582877,0 1.0583333,0.4754563 1.0583333,1.0583334 v 3.7041666 c 0,0.5828771 -0.4754563,1.0583334 -1.0583333,1.0583334 H 1.0583333 C 0.47545625,6.8791667 0,6.4037104 0,5.8208333 V 2.1166667 C 0,1.5337896 0.47545625,1.0583333 1.0583333,1.0583333 H 1.984375 L 2.1952479,0.49609375 C 2.2987,0.22330833 2.6209625,0 2.9104167,0 H 5.0270833 C 5.3165375,0 5.6388,0.22330833 5.7422521,0.49609375 L 5.953125,1.0583333 Z m -2.9104167,4.7625 c 1.0210271,0 1.8520833,-0.8310562 1.8520833,-1.8520833 0,-1.0210271 -0.8310562,-1.8520833 -1.8520833,-1.8520833 -1.0210271,0 -1.8520833,0.8310562 -1.8520833,1.8520833 0,1.0210271 0.8310562,1.8520833 1.8520833,1.8520833 z"
+         id="path13667" />
+    </symbol>
+    <symbol
+       id="icon-briefcase"
+       viewBox="0 0 28 28">
+      <title
+         id="title14255">briefcase</title>
+      <path
+         style="stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         d="M 2.6458333,1.0583333 H 4.7625 V 0.52916667 H 2.6458333 Z m 4.7625,2.6458334 v 1.984375 C 7.4083333,6.0523437 7.1106771,6.35 6.746875,6.35 H 0.66145833 C 0.29765625,6.35 0,6.0523437 0,5.6885417 V 3.7041667 H 2.778125 V 4.365625 c 0,0.1447271 0.1198562,0.2645833 0.2645833,0.2645833 H 4.365625 c 0.1447271,0 0.2645833,-0.1198562 0.2645833,-0.2645833 V 3.7041667 Z m -3.175,0 V 4.2333333 H 3.175 V 3.7041667 Z m 3.175,-1.984375 v 1.5875 H 0 v -1.5875 C 0,1.3559896 0.29765625,1.0583333 0.66145833,1.0583333 H 2.1166667 V 0.396875 C 2.1166667,0.1778 2.2944667,0 2.5135417,0 h 2.38125 c 0.219075,0 0.396875,0.1778 0.396875,0.396875 V 1.0583333 H 6.746875 c 0.3638021,0 0.6614583,0.2976563 0.6614583,0.6614584 z"
+         id="path14257" />
+    </symbol>
+    <symbol
+       id="icon-qrcode"
+       viewBox="0 0 22 28">
+      <title
+         id="title13630">qrcode</title>
+      <path
+         style="stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         d="M 1.5875,4.7625 V 5.2916667 H 1.0583333 V 4.7625 Z m 0,-3.175 V 2.1166667 H 1.0583333 V 1.5875 Z m 3.175,0 V 2.1166667 H 4.2333333 V 1.5875 Z M 0.52916667,5.8166 H 2.1166667 V 4.2333333 H 0.52916667 Z m 0,-3.1707667 H 2.1166667 v -1.5875 H 0.52916667 Z m 3.17500003,0 h 1.5875 v -1.5875 h -1.5875 z M 2.6458333,3.7041667 V 6.35 H 0 V 3.7041667 Z M 4.7625,5.8208333 V 6.35 H 4.2333333 V 5.8208333 Z m 1.0583333,0 V 6.35 H 5.2916667 V 5.8208333 Z m 0,-2.1166666 v 1.5875 h -1.5875 V 4.7625 H 3.7041667 V 6.35 H 3.175 V 3.7041667 H 4.7625 V 4.2333333 H 5.2916667 V 3.7041667 Z m -3.175,-3.17500003 V 3.175 H 0 V 0.52916667 Z m 3.175,0 V 3.175 H 3.175 V 0.52916667 Z"
+         id="path13632" />
+    </symbol>
+    <symbol
+       id="icon-unlock"
+       viewBox="0 0 26 28">
+      <title
+         id="title14160">unlock</title>
+      <path
+         style="stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         d="m 6.8791667,2.38125 v 1.0583333 c 0,0.1447271 -0.1198563,0.2645834 -0.2645834,0.2645834 H 6.35 c -0.1447271,0 -0.2645833,-0.1198563 -0.2645833,-0.2645834 V 2.38125 c 0,-0.5828771 -0.4754563,-1.0583333 -1.0583334,-1.0583333 -0.5828771,0 -1.0583333,0.4754562 -1.0583333,1.0583333 V 3.175 H 4.365625 C 4.5847,3.175 4.7625,3.3528 4.7625,3.571875 v 2.38125 C 4.7625,6.1722 4.5847,6.35 4.365625,6.35 H 0.396875 C 0.1778,6.35 0,6.1722 0,5.953125 V 3.571875 C 0,3.3528 0.1778,3.175 0.396875,3.175 H 3.175 V 2.38125 c 0,-1.0210271 0.8310562,-1.85208333 1.8520833,-1.85208333 1.0210271,0 1.8520834,0.83105623 1.8520834,1.85208333 z"
+         id="path14162" />
+    </symbol>
+    <symbol
+       id="icon-diamond"
+       viewBox="0 0 32 28">
+      <title
+         id="title15870">diamond</title>
+      <path
+         style="stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         d="M 0.87656458,3.175 3.4520187,5.9242854 2.2116521,3.175 H 0.8763 Z M 4.2333333,6.3666687 5.6761062,3.175 H 2.7905604 Z M 2.2240875,2.6458333 3.0673146,1.0583333 H 1.9841104 l -1.19062498,1.5875 H 2.2238229 Z M 5.0146479,5.9242854 7.5901021,3.175 H 6.25475 Z M 2.8236333,2.6458333 h 2.8194 l -0.8432271,-1.5875 H 3.667125 Z m 3.4189459,0 h 1.4303375 l -1.190625,-1.5875 H 5.3990875 Z m 0.582877,-2.0092458 1.5875,2.1166667 c 0.078581,0.099219 0.070379,0.2439458 -0.016669,0.3389312 l -3.96875,4.2333333 c -0.049477,0.053711 -0.1198563,0.082815 -0.1942042,0.082815 -0.074348,0 -0.1447271,-0.02884 -0.1942041,-0.082815 L 0.07037917,3.0921854 C -0.01640417,2.9972 -0.02460625,2.8524729 0.05371042,2.7532542 L 1.6412104,0.6365875 C 1.6906875,0.56620833 1.7692687,0.52916667 1.8520833,0.52916667 h 4.7625 c 0.082815,0 0.1611313,0.0373063 0.2108729,0.10742083 z"
+         id="path15872" />
+    </symbol>
+    <symbol
+       id="icon-eur"
+       viewBox="0 0 16 28">
+      <title
+         id="title90158">eur</title>
+      <path
+         style="stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         d="m 4.0348958,5.4033208 0.1447271,0.657225 C 4.1962917,6.1266917 4.1589854,6.1928375 4.0968083,6.213475 4.0801396,6.2177083 3.6957,6.35 3.1996062,6.35 1.9097625,6.35 0.87206667,5.5726542 0.52493333,4.3574229 H 0.13229167 C 0.05794375,4.3574229 0,4.2955104 0,4.2251312 V 3.7578771 C 0,3.6874979 0.05794375,3.6255854 0.13229167,3.6255854 h 0.27278541 c -0.004233,-0.1322917 -0.004233,-0.2894542 0.004233,-0.4341812 H 0.13229167 C 0.05794375,3.1914042 0,3.1334604 0,3.0591125 V 2.5878896 C 0,2.5135417 0.05794375,2.4555979 0.13229167,2.4555979 H 0.53736875 C 0.90540417,1.2980458 1.9637375,0.52916667 3.1998708,0.52916667 c 0.4299479,0 0.7855479,0.0910167 0.8019521,0.0949854 0.033073,0.008202 0.061913,0.0330729 0.082815,0.0619125 0.016669,0.0288396 0.020637,0.0661458 0.012435,0.0992187 l -0.1778,0.65722493 c -0.016669,0.070379 -0.086783,0.1116542 -0.1571625,0.091017 -0.00423,0 -0.2852208,-0.070379 -0.5789083,-0.070379 -0.6945313,0 -1.2774083,0.3762375 -1.5544271,0.9921875 h 1.9348979 c 0.041275,0 0.078581,0.016669 0.1034521,0.049477 0.024871,0.02884 0.037306,0.070379 0.02884,0.1074208 L 3.596746,3.0834545 C 3.5843104,3.1453667 3.5306,3.190875 3.4644542,3.190875 h -2.017448 c -0.012435,0.1322917 -0.0082,0.2727854 0,0.4341813 h 1.8975917 c 0.041275,0 0.078581,0.020638 0.1034521,0.049477 0.024871,0.033073 0.033073,0.074348 0.024871,0.1116542 L 3.3737021,4.2492083 C 3.3612667,4.3111208 3.3075562,4.3566292 3.2456437,4.3566292 H 1.6457083 c 0.2645834,0.6450541 0.8598959,1.0501312 1.5626292,1.0501312 0.3595687,0 0.6532562,-0.099219 0.657225,-0.099219 0.033073,-0.012435 0.074348,-0.0082 0.1074208,0.0082 0.033073,0.020638 0.05371,0.053711 0.061913,0.086783 z"
+         id="path90160" />
+    </symbol>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3381-5">
+      <path
+         d="m 381,263 h 668 V 937 H 381 Z"
+         id="path3383-3"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3393-5">
+      <path
+         d="m 381,263 h 668 V 937 H 381 Z"
+         id="path3395-6"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3481-2">
+      <path
+         d="m 551.0085,627.9283 h 325.5758 v 79.24298 H 551.0085 Z"
+         id="path3483-9"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3549-1">
+      <path
+         d="m 551.0085,479.9361 h 325.5758 v 79.24058 H 551.0085 Z"
+         id="path3551-2"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <symbol
+       id="symbol68026">
+      <title
+         id="title68022">Cloud</title>
+      <path
+         style="stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         d="M 10.242021,5.3101875 C 9.8821875,3.4898542 8.2761667,2.1166667 6.35,2.1166667 4.8207083,2.1166667 3.4951458,2.9845 2.8310417,4.2518542 1.2408958,4.4238333 0,5.7705625 0,7.4083333 0,9.1625208 1.4208125,10.583333 3.175,10.583333 h 6.879167 C 11.514667,10.583333 12.7,9.398 12.7,7.9375 12.7,6.5405 11.612562,5.4080833 10.242021,5.3101875 Z"
+         id="path68024" />
+    </symbol>
+    <symbol
+       id="symbol68056">
+      <title
+         id="title68052">Cloud Queue</title>
+      <path
+         style="stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         d="M 10.242021,5.3101875 C 9.8821875,3.4898542 8.2761667,2.1166667 6.35,2.1166667 4.8207083,2.1166667 3.4951458,2.9845 2.8310417,4.2518542 1.2408958,4.4238333 0,5.7705625 0,7.4083333 0,9.1625208 1.4208125,10.583333 3.175,10.583333 h 6.879167 C 11.514667,10.583333 12.7,9.398 12.7,7.9375 12.7,6.5405 11.612562,5.4080833 10.242021,5.3101875 Z M 10.054167,9.525 H 3.175 C 2.0055417,9.525 1.0583333,8.5777917 1.0583333,7.4083333 1.0583333,6.238875 2.0055417,5.2916667 3.175,5.2916667 H 3.5507083 C 3.8973125,4.0719375 5.0165,3.175 6.35,3.175 c 1.6086667,0 2.9104167,1.30175 2.9104167,2.9104167 V 6.35 h 0.7937503 c 0.87577,0 1.5875,0.7117292 1.5875,1.5875 0,0.8757708 -0.71173,1.5875 -1.5875,1.5875 z"
+         id="path68054" />
+    </symbol>
+    <symbol
+       id="symbol78675">
+      <title
+         id="title78671">Security</title>
+      <path
+         style="stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         d="M 6.35,0.52916667 1.5875,2.6458333 v 3.175 c 0,2.9395209 2.0293542,5.6806037 4.7625,6.3499997 2.7331458,-0.669396 4.7625,-3.4104788 4.7625,-6.3499997 v -3.175 z m 0,5.81554163 h 3.704167 C 9.7737083,8.524875 8.3211458,10.466917 6.35,11.072812 V 6.35 H 2.6458333 V 3.33375 L 6.35,1.6880417 Z"
+         id="path78673" />
+    </symbol>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3381-5-0">
+      <path
+         d="m 381,263 h 668 V 937 H 381 Z"
+         id="path3383-3-4"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3393-5-4">
+      <path
+         d="m 381,263 h 668 V 937 H 381 Z"
+         id="path3395-6-4"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3481-2-4">
+      <path
+         d="m 551.0085,627.9283 h 325.5758 v 79.24298 H 551.0085 Z"
+         id="path3483-9-7"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3549-1-6">
+      <path
+         d="m 551.0085,479.9361 h 325.5758 v 79.24058 H 551.0085 Z"
+         id="path3551-2-3"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3381-5-0-3">
+      <path
+         d="m 381,263 h 668 V 937 H 381 Z"
+         id="path3383-3-4-6"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3393-5-4-0">
+      <path
+         d="m 381,263 h 668 V 937 H 381 Z"
+         id="path3395-6-4-6"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3481-2-4-2">
+      <path
+         d="m 551.0085,627.9283 h 325.5758 v 79.24298 H 551.0085 Z"
+         id="path3483-9-7-6"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3549-1-6-1">
+      <path
+         d="m 551.0085,479.9361 h 325.5758 v 79.24058 H 551.0085 Z"
+         id="path3551-2-3-8"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3393-5-4-0-3">
+      <path
+         d="m 381,263 h 668 V 937 H 381 Z"
+         id="path3395-6-4-6-6"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3393-5-4-0-3-4">
+      <path
+         d="m 381,263 h 668 V 937 H 381 Z"
+         id="path3395-6-4-6-6-7"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3393-5-4-0-3-4-8">
+      <path
+         d="m 381,263 h 668 V 937 H 381 Z"
+         id="path3395-6-4-6-6-7-4"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3393-5-4-0-3-4-2">
+      <path
+         d="m 381,263 h 668 V 937 H 381 Z"
+         id="path3395-6-4-6-6-7-0"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3393-5-4-0-3-4-81">
+      <path
+         d="m 381,263 h 668 V 937 H 381 Z"
+         id="path3395-6-4-6-6-7-2"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3393-5-4-0-3-4-8-9">
+      <path
+         d="m 381,263 h 668 V 937 H 381 Z"
+         id="path3395-6-4-6-6-7-4-3"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3381-5-0-3-1">
+      <path
+         d="m 381,263 h 668 V 937 H 381 Z"
+         id="path3383-3-4-6-9"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3393-5-4-0-6">
+      <path
+         d="m 381,263 h 668 V 937 H 381 Z"
+         id="path3395-6-4-6-4"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3481-2-4-2-8">
+      <path
+         d="m 551.0085,627.9283 h 325.5758 v 79.24298 H 551.0085 Z"
+         id="path3483-9-7-6-0"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3549-1-6-1-8">
+      <path
+         d="m 551.0085,479.9361 h 325.5758 v 79.24058 H 551.0085 Z"
+         id="path3551-2-3-8-1"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3381-5-0-3-1-0">
+      <path
+         d="m 381,263 h 668 V 937 H 381 Z"
+         id="path3383-3-4-6-9-2"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3393-5-4-0-6-2">
+      <path
+         d="m 381,263 h 668 V 937 H 381 Z"
+         id="path3395-6-4-6-4-9"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3481-2-4-2-8-7">
+      <path
+         d="m 551.0085,627.9283 h 325.5758 v 79.24298 H 551.0085 Z"
+         id="path3483-9-7-6-0-5"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3549-1-6-1-8-6">
+      <path
+         d="m 551.0085,479.9361 h 325.5758 v 79.24058 H 551.0085 Z"
+         id="path3551-2-3-8-1-4"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="390.66946"
+       height="244.94144"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,423.81173,154.98317)"
+       id="pattern6565">
+      <g
+         style="display:inline;opacity:1;fill:#6d6d6d;fill-opacity:1;stroke:#414141;stroke-opacity:1"
+         transform="matrix(2.2961793,0,0,-2.2927926,0.6083929,243.96924)"
+         id="g3473-0-1-4-6-90-3">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3475-9-9-9-3-8-6"
+           style="fill:#6d6d6d;fill-opacity:1;stroke:#414141;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="M 0,0 169.609,105.983" />
+      </g>
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern6734"
+       id="pattern6740"
+       patternTransform="matrix(0.05770724,-0.00142609,0.00122117,0.04874929,1648.5141,-842.09783)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="390.66946"
+       height="244.94144"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,407.93674,172.74805)"
+       id="pattern6734">
+      <g
+         style="display:inline;opacity:1;fill:#ffffff;stroke:#ffffff;stroke-opacity:1"
+         transform="matrix(2.2961793,0,0,-2.2927926,0.6083929,243.96924)"
+         id="g3473-0-1-4-6-90-7">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3475-9-9-9-3-8-53"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="M 0,0 169.609,105.983" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="390.66946"
+       height="244.94144"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,407.93674,172.74805)"
+       id="pattern6734-3">
+      <g
+         style="display:inline;opacity:1;fill:#ffffff;stroke:#ffffff;stroke-opacity:1"
+         transform="matrix(2.2961793,0,0,-2.2927926,0.6083929,243.96924)"
+         id="g3473-0-1-4-6-90-7-2">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3475-9-9-9-3-8-53-1"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="M 0,0 169.609,105.983" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="390.66946"
+       height="244.94144"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,407.93674,172.74805)"
+       id="pattern6734-6">
+      <g
+         style="display:inline;opacity:1;fill:#ffffff;stroke:#ffffff;stroke-opacity:1"
+         transform="matrix(2.2961793,0,0,-2.2927926,0.6083929,243.96924)"
+         id="g3473-0-1-4-6-90-7-5">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3475-9-9-9-3-8-53-4"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="M 0,0 169.609,105.983" />
+      </g>
+    </pattern>
+    <symbol
+       id="symbol80999">
+      <title
+         id="title80995">Call Received</title>
+      <path
+         style="stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         d="M 10.583333,2.8654375 9.8345625,2.1166667 3.7041667,8.2470625 V 4.7625 H 2.6458333 v 5.291667 H 7.9375 V 8.9958333 H 4.4529375 Z"
+         id="path80997" />
+    </symbol>
+    <symbol
+       id="symbol80981">
+      <title
+         id="title80977">Call Made</title>
+      <path
+         style="stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         d="M 4.7625,2.6458333 V 3.7041667 H 8.2470625 L 2.1166667,9.8345625 2.8654375,10.583333 8.9958333,4.4529375 V 7.9375 H 10.054167 V 2.6458333 Z"
+         id="path80979" />
+    </symbol>
+    <symbol
+       id="symbol74799">
+      <title
+         id="title74795">Alarm</title>
+      <path
+         style="stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         d="M 11.641667,3.0268333 9.2101458,0.98689583 8.5301667,1.7965208 10.961687,3.8364583 Z M 4.1698333,1.793875 3.4898542,0.98425 1.0583333,3.0241875 1.7383125,3.8338125 Z m 2.44475,2.4394583 h -0.79375 v 3.175 L 8.3317292,8.9191042 8.73125,8.2655833 6.6145833,7.0114583 Z M 6.3473542,2.1166667 c -2.6326042,0 -4.7598542,2.1325416 -4.7598542,4.7625 0,2.6299583 2.12725,4.7625003 4.7598542,4.7625003 2.6326041,0 4.7651458,-2.132542 4.7651458,-4.7625003 0,-2.6299584 -2.1325417,-4.7625 -4.7651458,-4.7625 z M 6.35,10.583333 c -2.0452292,0 -3.7041667,-1.6589372 -3.7041667,-3.7041663 C 2.6458333,4.8339375 4.3047708,3.175 6.35,3.175 c 2.0452292,0 3.704167,1.6589375 3.704167,3.7041667 0,2.0452291 -1.656292,3.7041663 -3.704167,3.7041663 z"
+         id="path74797" />
+    </symbol>
+    <symbol
+       id="symbol74817">
+      <title
+         id="title74813">Alarm Off</title>
+      <path
+         style="stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         d="M 11.641667,3.0268333 9.2101458,0.98689583 8.5301667,1.7965208 10.961687,3.8364583 Z M 4.1698333,1.793875 3.4898542,0.98425 1.0583333,3.0241875 1.7383125,3.8338125 Z m 2.1775209,0.3227917 c -2.6326042,0 -4.7598542,2.1325416 -4.7598542,4.7625 0,2.6299583 2.12725,4.7625003 4.7598542,4.7625003 2.6326041,0 4.7651458,-2.132542 4.7651458,-4.7625003 0,-2.6299584 -2.1325417,-4.7625 -4.7651458,-4.7625 z M 6.35,10.583333 c -2.0452292,0 -3.7041667,-1.6589372 -3.7041667,-3.7041663 C 2.6458333,4.8339375 4.3047708,3.175 6.35,3.175 c 2.0452292,0 3.704167,1.6589375 3.704167,3.7041667 0,2.0452291 -1.656292,3.7041663 -3.704167,3.7041663 z M 5.5747708,7.6861458 4.4529375,6.5643125 3.8920208,7.1252292 5.5747708,8.8079792 8.7524167,5.6303333 8.1915,5.0694167 Z"
+         id="path74815" />
+    </symbol>
+    <symbol
+       id="symbol75323">
+      <title
+         id="title75317">Schedule</title>
+      <path
+         style="fill-opacity:0.9;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         d="m 6.3473542,1.0583333 c -2.9236459,0 -5.2890209,2.3680209 -5.2890209,5.2916667 0,2.9236458 2.365375,5.291667 5.2890209,5.291667 C 9.271,11.641667 11.641667,9.2736458 11.641667,6.35 11.641667,3.4263542 9.271,1.0583333 6.3473542,1.0583333 Z M 6.35,10.583333 c -2.3389167,0 -4.2333333,-1.8944163 -4.2333333,-4.233333 0,-2.3389167 1.8944166,-4.2333333 4.2333333,-4.2333333 2.3389167,0 4.233333,1.8944166 4.233333,4.2333333 0,2.3389167 -1.8944163,4.233333 -4.233333,4.233333 z"
+         id="path75319" />
+      <path
+         style="fill-opacity:0.9;stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         d="m 6.6145833,3.7041667 h -0.79375 v 3.175 l 2.7754792,1.666875 0.3995208,-0.650875 -2.38125,-1.412875 z"
+         id="path75321" />
+    </symbol>
+    <symbol
+       id="symbol75057">
+      <title
+         id="title75053">Help</title>
+      <path
+         style="stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         d="m 6.35,1.0583333 c -2.9236458,0 -5.2916667,2.3680209 -5.2916667,5.2916667 0,2.9236458 2.3680209,5.291667 5.2916667,5.291667 2.9236458,0 5.291667,-2.3680212 5.291667,-5.291667 0,-2.9236458 -2.3680212,-5.2916667 -5.291667,-5.2916667 z M 6.8791667,10.054167 H 5.8208333 V 8.9958333 H 6.8791667 Z M 7.9718958,5.9557708 7.4982917,6.4426042 c -0.381,0.381 -0.619125,0.7011458 -0.619125,1.4948958 H 5.8208333 V 7.6729167 c 0,-0.5847292 0.238125,-1.1138959 0.619125,-1.4975417 L 7.0987708,5.508625 C 7.2892708,5.318125 7.4083333,5.0535417 7.4083333,4.7625 7.4083333,4.1777708 6.9347292,3.7041667 6.35,3.7041667 5.7652708,3.7041667 5.2916667,4.1777708 5.2916667,4.7625 H 4.2333333 c 0,-1.1694583 0.9472084,-2.1166667 2.1166667,-2.1166667 1.1694583,0 2.1166667,0.9472084 2.1166667,2.1166667 0,0.4656667 -0.1878542,0.8863542 -0.4947709,1.1932708 z"
+         id="path75055" />
+    </symbol>
+    <symbol
+       id="check"
+       viewBox="0 0 12 16">
+      <title
+         id="title85583">check</title>
+      <path
+         style="stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         d="M 3.175,1.3229167 1.0583333,3.4395833 0,2.38125 0.396875,1.984375 1.0583333,2.6458333 2.778125,0.92604167 Z"
+         id="path85585" />
+    </symbol>
+    <symbol
+       id="icon-check-circle"
+       viewBox="0 0 24 28">
+      <title
+         id="title76932">check-circle</title>
+      <path
+         style="stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         d="m 5.3080708,3.0345062 c 0,-0.070379 -0.024871,-0.1404937 -0.074348,-0.1902354 L 4.8574854,2.4722667 c -0.049477,-0.049477 -0.1158875,-0.078581 -0.1860021,-0.078581 -0.070115,0 -0.136525,0.02884 -0.186002,0.078581 L 2.7987625,4.1547521 1.8645188,3.2205083 c -0.049477,-0.049477 -0.1158875,-0.078581 -0.1860021,-0.078581 -0.070115,0 -0.136525,0.02884 -0.1860021,0.078581 L 1.1162771,3.5925125 c -0.049477,0.049477 -0.074348,0.1198562 -0.074348,0.1902354 0,0.070379 0.024871,0.136525 0.074348,0.1860021 l 1.4964833,1.4964833 c 0.049477,0.049477 0.1198563,0.078581 0.1860021,0.078581 0.070379,0 0.1404937,-0.02884 0.1902354,-0.078581 l 2.244725,-2.244725 C 5.2832,3.1710312 5.3080708,3.1046208 5.3080708,3.0345062 Z M 6.35,3.7041667 c 0,1.7528645 -1.4221354,3.175 -3.175,3.175 -1.7528646,0 -3.175,-1.4221355 -3.175,-3.175 0,-1.7528646 1.4221354,-3.17500003 3.175,-3.17500003 1.7528646,0 3.175,1.42213543 3.175,3.17500003 z"
+         id="path76934" />
+    </symbol>
+    <symbol
+       id="icon-exclamation-circle"
+       viewBox="0 0 24 28">
+      <title
+         id="title77002">exclamation-circle</title>
+      <path
+         style="stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         d="m 3.175,0.52916667 c 1.7528646,0 3.175,1.42213543 3.175,3.17500003 0,1.7528645 -1.4221354,3.175 -3.175,3.175 C 1.4221354,6.8791667 0,5.4570312 0,3.7041667 0,1.9513021 1.4221354,0.52916667 3.175,0.52916667 Z M 3.7041667,5.6843083 V 4.8987604 c 0,-0.074348 -0.057944,-0.136525 -0.1280584,-0.136525 h -0.79375 c -0.074348,0 -0.136525,0.061913 -0.136525,0.136525 v 0.7855479 c 0,0.074348 0.061913,0.136525 0.136525,0.136525 h 0.79375 c 0.070379,0 0.1280584,-0.061913 0.1280584,-0.136525 z m -0.0082,-1.4221354 0.074348,-2.5672521 c 0,-0.028839 -0.012435,-0.057944 -0.041275,-0.074348 C 3.7041667,1.5999354 3.667125,1.5875 3.6298187,1.5875 H 2.7204458 c -0.037306,0 -0.074348,0.012435 -0.099219,0.033073 -0.02884,0.016669 -0.041275,0.045508 -0.041275,0.074348 l 0.070379,2.5672521 c 0,0.057944 0.061913,0.1034521 0.1404938,0.1034521 H 3.555735 c 0.074348,0 0.136525,-0.045508 0.1404938,-0.1034521 z"
+         id="path77004" />
+    </symbol>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="390.66946"
+       height="244.94144"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,407.93674,172.74805)"
+       id="pattern6734-6-5">
+      <g
+         style="display:inline;opacity:1;fill:#ffffff;stroke:#ffffff;stroke-opacity:1"
+         transform="matrix(2.2961793,0,0,-2.2927926,0.6083929,243.96924)"
+         id="g3473-0-1-4-6-90-7-5-3">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3475-9-9-9-3-8-53-4-5"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="M 0,0 169.609,105.983" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="390.66946"
+       height="244.94144"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,407.93674,172.74805)"
+       id="pattern6734-6-1">
+      <g
+         style="display:inline;opacity:1;fill:#ffffff;stroke:#ffffff;stroke-opacity:1"
+         transform="matrix(2.2961793,0,0,-2.2927926,0.6083929,243.96924)"
+         id="g3473-0-1-4-6-90-7-5-2">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3475-9-9-9-3-8-53-4-7"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="M 0,0 169.609,105.983" />
+      </g>
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern6740-5-0"
+       id="pattern87797"
+       patternTransform="matrix(0.05770724,-0.00142609,0.00122117,0.04874929,496.16955,-1127.7231)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern6734-6-9"
+       id="pattern6740-5-0"
+       patternTransform="matrix(0.05770724,-0.00142609,0.00122117,0.04874929,484.7874,-108.35081)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="390.66946"
+       height="244.94144"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,407.93674,172.74805)"
+       id="pattern6734-6-9">
+      <g
+         style="display:inline;opacity:1;fill:#ffffff;stroke:#ffffff;stroke-opacity:1"
+         transform="matrix(2.2961793,0,0,-2.2927926,0.6083929,243.96924)"
+         id="g3473-0-1-4-6-90-7-5-36">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3475-9-9-9-3-8-53-4-0"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="M 0,0 169.609,105.983" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="390.66946"
+       height="244.94144"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,407.93674,172.74805)"
+       id="pattern6734-9">
+      <g
+         style="display:inline;opacity:1;fill:#ffffff;stroke:#ffffff;stroke-opacity:1"
+         transform="matrix(2.2961793,0,0,-2.2927926,0.6083929,243.96924)"
+         id="g3473-0-1-4-6-90-7-20">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3475-9-9-9-3-8-53-2"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="M 0,0 169.609,105.983" />
+      </g>
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern6740-75"
+       id="pattern88371-3"
+       patternTransform="matrix(0.05770724,-0.00142609,0.00122117,0.04874929,881.77059,-1133.0046)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern6734-92"
+       id="pattern6740-75"
+       patternTransform="matrix(0.05770724,-0.00142609,0.00122117,0.04874929,1648.5141,-842.09783)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="390.66946"
+       height="244.94144"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,407.93674,172.74805)"
+       id="pattern6734-92">
+      <g
+         style="display:inline;opacity:1;fill:#ffffff;stroke:#ffffff;stroke-opacity:1"
+         transform="matrix(2.2961793,0,0,-2.2927926,0.6083929,243.96924)"
+         id="g3473-0-1-4-6-90-7-28">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3475-9-9-9-3-8-53-9"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="M 0,0 169.609,105.983" />
+      </g>
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="390.66946"
+       height="244.94144"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,407.93674,172.74805)"
+       id="pattern6734-6-54">
+      <g
+         style="display:inline;opacity:1;fill:#ffffff;stroke:#ffffff;stroke-opacity:1"
+         transform="matrix(2.2961793,0,0,-2.2927926,0.6083929,243.96924)"
+         id="g3473-0-1-4-6-90-7-5-7">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3475-9-9-9-3-8-53-4-4"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="M 0,0 169.609,105.983" />
+      </g>
+    </pattern>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath237961">
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.80380857;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect237963"
+         width="332.19907"
+         height="486.59097"
+         x="1210.6458"
+         y="-543.29102" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="1919.2124"
+     inkscape:cy="3031.6014"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g7863"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1364"
+     inkscape:window-height="743"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:lockguides="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:inline"
+     inkscape:label="Sign Message"
+     id="g7919"
+     inkscape:groupmode="layer"
+     transform="translate(0,740.83333)">
+    <g
+       style="display:inline"
+       transform="translate(0,496.75003)"
+       id="g7791"
+       inkscape:groupmode="layer"
+       inkscape:label="background">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-message.png"
+         y="-445.06216"
+         x="443.63754"
+         height="586.92352"
+         width="332.84555"
+         id="rect7787"
+         style="opacity:1;fill:#1d1d1d;fill-opacity:1;stroke:#40428f;stroke-width:0.52945471;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-message.png"
+         style="display:inline;opacity:1;fill:url(#pattern7921);fill-opacity:1;stroke:none;stroke-width:1.08645272px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 445.81709,-402.00403 -2.4406,543.85617 332.1546,-1.30257 -0.2441,-541.76396 z"
+         id="path7789"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       transform="translate(0,209.55)"
+       style="display:inline"
+       inkscape:label="button_sign"
+       id="g7799"
+       inkscape:groupmode="layer">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-message.png"
+         style="display:inline;fill:#81e471;fill-opacity:1;stroke:none;stroke-width:0.27183351;stroke-opacity:1"
+         id="rect7793"
+         width="301.625"
+         height="43.089287"
+         x="459.23312"
+         y="370.17865" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-message.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1d1d1d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="552.14301"
+         y="398.12161"
+         id="text7797"><tspan
+           sodipodi:role="line"
+           id="tspan7795"
+           x="552.14301"
+           y="398.12161"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';fill:#1d1d1d;fill-opacity:1;stroke-width:0.26458332">Sign Message</tspan></text>
+    </g>
+    <g
+       inkscape:label="receiver"
+       id="g7823"
+       inkscape:groupmode="layer" />
+    <g
+       style="display:inline"
+       inkscape:label="transaction"
+       id="g7863"
+       inkscape:groupmode="layer">
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-message.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#b4b5b0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="459.76456"
+         y="304.48352"
+         id="text7827"><tspan
+           sodipodi:role="line"
+           id="tspan7825"
+           x="459.76456"
+           y="304.48352"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';fill:#b4b5b0;fill-opacity:1;stroke-width:0.26458332">MESSAGE</tspan></text>
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-message.png"
+         y="315.51758"
+         x="460.27255"
+         height="139.37769"
+         width="301.625"
+         id="rect7829"
+         style="display:inline;fill:#f9f9f9;fill-opacity:1;stroke-width:0.42025271" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="473.48819"
+         y="341.00485"
+         id="text176143"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-message.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           x="473.48819"
+           y="341.00485"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.26458332"
+           id="tspan176173">I Hans Gruvenbeats agree to rent appartment #205 at</tspan><tspan
+           sodipodi:role="line"
+           x="473.48819"
+           y="355.11597"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.26458332"
+           id="tspan176185">Reichenbergerstrasse 21 for six months begining on</tspan><tspan
+           sodipodi:role="line"
+           x="473.48819"
+           y="369.22708"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.26458332"
+           id="tspan176177">Jan 1, 2018. I agree to pay a total of 1200 EUR per </tspan><tspan
+           sodipodi:role="line"
+           x="473.48819"
+           y="383.3382"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.26458332"
+           id="tspan176195">month. After that date rental will be month-to-month. </tspan><tspan
+           sodipodi:role="line"
+           x="473.48819"
+           y="396.9353"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.26458332"
+           id="tspan176971" /><tspan
+           sodipodi:role="line"
+           x="473.48819"
+           y="410.67847"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.26458332"
+           id="tspan176973">Rent is to be paid by the 5th day of each month. For</tspan><tspan
+           sodipodi:role="line"
+           x="473.48819"
+           y="424.78958"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.26458332"
+           id="tspan176975">each late day after the 5th, a 1% late fee is added to</tspan><tspan
+           sodipodi:role="line"
+           x="473.48819"
+           y="438.9007"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.26458332"
+           id="tspan176981">the amount due.</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g7887"
+       inkscape:label="account_from"
+       style="display:inline"
+       transform="translate(0,209.55)">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-message.png"
+         style="display:inline;fill:#f9f9f9;fill-opacity:1;stroke-width:0.27768928"
+         id="rect7865"
+         width="301.625"
+         height="60.854168"
+         x="460.27255"
+         y="-14.681784" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-message.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:16.93333244px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="518.78436"
+         y="11.610635"
+         id="text7869"><tspan
+           sodipodi:role="line"
+           x="518.78436"
+           y="11.610635"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:16.93333244px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Ultra-Bold';opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.52819526;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647"
+           id="tspan7867">Small Change</tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-message.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:25.39999962px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#b4b5b0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="519.11664"
+         y="33.723721"
+         id="text7873"><tspan
+           sodipodi:role="line"
+           id="tspan7871"
+           x="519.11664"
+           y="33.723721"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#b4b5b0;fill-opacity:1;stroke-width:0.26458332">0x0bed7abd61247635c1973eb38474a2516ed1d884</tspan></text>
+      <image
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-message.png"
+         y="-4.4298959"
+         x="469.56271"
+         id="image7875"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAYAAAA6/NlyAAAABHNCSVQICAgIfAhkiAAAAPNJREFU aIHtmrENAjEMRQmKmCOpWIkR2ACYADEBjMBKVJkDmtBQ2kJGNid9/1f6dDk/WfJZVsr1+JyrRKyX TuDfUBgdCqNTtQeX+1aMH3aPsGR+wZpnugpTGB0Ko1PmnOIsfTu9xBe0rqhh7epe5+/PGzGersIU RofC6FStG2uMMcR4790jH/N3tfy1eLoKUxgdCqNTWmviLO212Yieva3fTVdhCqNDYXSq1hW5lwaB wuhQGJ3idcfDOjNb8fo7pKswhdGhMDrhG4+l4MbjA4XRoTA6ape2Yt2cRJ+jka7CFEaHwuiE38SL hjfxvkBhdCiMzhvThE0BOQ4NsAAAAABJRU5ErkJggg== "
+         style="display:inline;image-rendering:optimizeSpeed"
+         preserveAspectRatio="none"
+         height="40.745831"
+         width="40.745831" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-message.png"
+         style="display:inline;opacity:1;fill:#9778f9;fill-opacity:1;stroke-width:0.51618099"
+         id="rect7877"
+         width="301.625"
+         height="19.84375"
+         x="460.27255"
+         y="45.643154" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-message.png"
+         id="text7881"
+         y="58.357201"
+         x="710.66248"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan7879"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#f9f9f9;fill-opacity:1;stroke-width:0.26458332"
+           y="58.357201"
+           x="710.66248"
+           sodipodi:role="line">Ethereum</tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-message.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#b4b5b0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="459.44705"
+         y="-28.647797"
+         id="text7885"><tspan
+           sodipodi:role="line"
+           id="tspan7883"
+           x="459.44705"
+           y="-28.647797"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';fill:#b4b5b0;fill-opacity:1;stroke-width:0.26458332">WITH ACCOUNT</tspan></text>
+    </g>
+    <g
+       transform="translate(0,209.55)"
+       style="display:inline"
+       inkscape:label="text"
+       id="g7893"
+       inkscape:groupmode="layer">
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-message.png"
+         id="text7891"
+         y="-64.604401"
+         x="529.08514"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#b4b5b0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.39999962px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';fill:#b4b5b0;fill-opacity:1;stroke-width:0.26458332"
+           y="-64.604401"
+           x="529.08514"
+           id="tspan7889"
+           sodipodi:role="line">SIGN MESSAGE</tspan></text>
+    </g>
+    <g
+       transform="translate(0,209.55)"
+       style="display:inline"
+       inkscape:label="topbar"
+       id="g7917"
+       inkscape:groupmode="layer">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-message.png"
+         y="-157.63652"
+         x="443.82553"
+         height="35.682171"
+         width="332.88589"
+         id="rect7895"
+         style="display:inline;opacity:1;fill:#7ff000;fill-opacity:0;stroke:none;stroke-width:0.13055393;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-message.png"
+         y="-157.89342"
+         x="443.37302"
+         height="43.089287"
+         width="333.375"
+         id="rect7897"
+         style="display:inline;opacity:1;fill:#1d1d1d;fill-opacity:1;stroke:none;stroke-width:0.53097576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-message.png"
+         id="text7901"
+         y="-131.97874"
+         x="498.58493"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.75555611px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           y="-131.97874"
+           x="498.58493"
+           id="tspan7899"
+           sodipodi:role="line">parity</tspan></text>
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-message.png"
+         id="path7903"
+         d="m 475.91569,-149.33348 -15.576,9.7324 2.0481,3.27751 4.3197,-2.67699 v -2.0951 h 3.3808 l 7.9114,-4.90282 z m 2.6287,4.20653 -6.5051,4.03129 h 7.2845 l 1.2541,-0.7772 z m 2.5781,4.12552 -1.6478,1.02117 v 1.89009 h -3.05 l -4.2305,2.62174 h 6.9014 l 3.9535,-2.44996 z m -13.9331,2.91126 -4.2569,2.63808 2.0334,3.2541 1.7539,-1.08686 v -2.18358 h 3.5235 l 4.2306,-2.62174 z m 16.4043,1.04326 -4.1067,2.54502 v 2.0389 h -3.2901 l -8.2152,5.09099 2.0909,3.34592 15.5761,-9.73234 z m -16.2492,4.58392 -1.8339,1.13653 1.9265,3.08293 6.8088,-4.21946 z"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.06720092;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-message.png"
+         inkscape:connector-curvature="0"
+         id="path7905"
+         d="M 776.76579,-114.80501 H 443.38029"
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35441342;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-message.png"
+         transform="translate(436.81619,-158.12078)"
+         id="g7911">
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.38484848"
+           inkscape:connector-curvature="0"
+           d="m 258.89327,12.479232 -6.92728,3.078788 v 4.618181 c 0,4.275667 2.95179,8.262697 6.92728,9.236364 3.97548,-0.973667 6.92727,-4.960697 6.92727,-9.236364 V 15.55802 Z"
+           id="path7907"
+           sodipodi:nodetypes="ccscscc" />
+        <use
+           id="use7909"
+           style="display:inline;fill:#6de95a;fill-opacity:1;stroke:none"
+           xlink:href="#symbol78675"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%"
+           transform="matrix(1.4545455,0,0,1.4545455,249.6569,11.709535)" />
+      </g>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-message.png"
+         id="text7915"
+         y="-131.63976"
+         x="710.74915"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#6de95a;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.11111069px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#6de95a;fill-opacity:1;stroke-width:0.26458332"
+           y="-131.63976"
+           x="710.74915"
+           id="tspan7913"
+           sodipodi:role="line">Secured</tspan></text>
+    </g>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="Edit Transaction"
+     id="g9081"
+     inkscape:groupmode="layer"
+     transform="translate(0,740.83333)">
+    <g
+       style="display:inline"
+       transform="translate(0,496.75003)"
+       id="g8961"
+       inkscape:groupmode="layer"
+       inkscape:label="background">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/edit-transactions.png"
+         y="-1087.7583"
+         x="832.63165"
+         height="586.92352"
+         width="332.84555"
+         id="rect8957"
+         style="opacity:1;fill:#1d1d1d;fill-opacity:1;stroke:#40428f;stroke-width:0.52945471;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/edit-transactions.png"
+         style="display:inline;opacity:1;fill:url(#pattern9083);fill-opacity:1;stroke:none;stroke-width:1.08645272px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 834.81115,-1044.7005 -2.4406,543.85716 332.15455,-1.30257 -0.2441,-541.76489 z"
+         id="path8959"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       transform="translate(0,209.55)"
+       style="display:inline"
+       inkscape:label="button_sign"
+       id="g8969"
+       inkscape:groupmode="layer">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/edit-transactions.png"
+         style="display:inline;fill:#81e471;fill-opacity:1;stroke:none;stroke-width:0.27183351;stroke-opacity:1"
+         id="rect8963"
+         width="301.625"
+         height="43.089287"
+         x="848.22723"
+         y="-271.98706" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/edit-transactions.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1d1d1d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="941.13721"
+         y="-244.04402"
+         id="text8967"><tspan
+           sodipodi:role="line"
+           id="tspan8965"
+           x="941.13721"
+           y="-244.04402"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';fill:#1d1d1d;fill-opacity:1;stroke-width:0.26458332">Sign Transaction</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer1"
+       inkscape:label="button_sign 1"
+       style="display:inline">
+      <rect
+         y="-250.44841"
+         x="848.20831"
+         height="43.089001"
+         width="140"
+         id="rect88238"
+         style="display:inline;fill:#f9f9f9;fill-opacity:1;stroke-width:0.15919432"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/edit-transactions.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#b4b5b0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="847.50983"
+         y="-261.80145"
+         id="text88252"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/edit-transactions.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan88250"
+           x="847.50983"
+           y="-261.80145"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';fill:#b4b5b0;fill-opacity:1;stroke-width:0.26458332">GAS</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="863.36749"
+         y="-224.28683"
+         id="text88256"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/edit-transactions.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           x="863.36749"
+           y="-224.28683"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#1a1a1a;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan88254">21000</tspan></text>
+      <rect
+         y="-250.757"
+         x="1009.2742"
+         height="43.089001"
+         width="140"
+         id="rect88238-7"
+         style="display:inline;fill:#f9f9f9;fill-opacity:1;stroke-width:0.15919431"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/edit-transactions.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#b4b5b0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="1008.5756"
+         y="-263.16821"
+         id="text88252-5"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/edit-transactions.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan88250-3"
+           x="1008.5756"
+           y="-263.16821"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';fill:#b4b5b0;fill-opacity:1;stroke-width:0.26458332">GAS PRICE</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="1024.4335"
+         y="-224.5955"
+         id="text88256-5"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/edit-transactions.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           x="1024.4335"
+           y="-224.5955"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#1a1a1a;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan88254-6">2000000000</tspan></text>
+      <rect
+         y="-166.73438"
+         x="848.9361"
+         height="43.089001"
+         width="301.625"
+         id="rect88238-7-6"
+         style="display:inline;fill:#f9f9f9;fill-opacity:1;stroke-width:0.2336669"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/edit-transactions.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#b4b5b0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="848.23761"
+         y="-179.146"
+         id="text88252-5-0"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/edit-transactions.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan88250-3-6"
+           x="848.23761"
+           y="-179.146"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';fill:#b4b5b0;fill-opacity:1;stroke-width:0.26458332">NONCE</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="864.09528"
+         y="-140.5723"
+         id="text88256-5-2"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/edit-transactions.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           x="864.09528"
+           y="-140.5723"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#1a1a1a;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan88254-6-6">12</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       inkscape:label="transaction"
+       id="g9021"
+       inkscape:groupmode="layer">
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/edit-transactions.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#b4b5b0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="847.70032"
+         y="-342.44543"
+         id="text8973"><tspan
+           sodipodi:role="line"
+           id="tspan8971"
+           x="847.70032"
+           y="-342.44543"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';fill:#b4b5b0;fill-opacity:1;stroke-width:0.26458332">TRANSACTION AMOUNT</tspan></text>
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/edit-transactions.png"
+         y="-331.34259"
+         x="848.20831"
+         height="43.089001"
+         width="301.625"
+         id="rect8975"
+         style="display:inline;fill:#f9f9f9;fill-opacity:1;stroke-width:0.23366684" />
+      <rect
+         y="-331.63766"
+         x="1091.6442"
+         height="43.089001"
+         width="58.188972"
+         id="rect8987"
+         style="opacity:1;fill:#9778f9;fill-opacity:1;stroke:none;stroke-width:0.25849313;stroke-opacity:1"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/edit-transactions.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         id="text8995"
+         y="-303.06558"
+         x="1104.9697"
+         style="font-style:normal;font-weight:normal;font-size:16.93333244px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/edit-transactions.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           id="tspan8993"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:19.75555611px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Ultra-Bold';opacity:1;vector-effect:none;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.52819526;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647"
+           y="-303.06558"
+           x="1104.9697"
+           sodipodi:role="line">ETH</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="863.3606"
+         y="-305.20114"
+         id="text88256-2"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/edit-transactions.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           x="863.3606"
+           y="-305.20114"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#1a1a1a;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan88254-9">3.14159</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g9049"
+       inkscape:label="account_from"
+       style="display:inline"
+       transform="translate(0,209.55)">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/edit-transactions.png"
+         style="display:inline;fill:#f9f9f9;fill-opacity:1;stroke-width:0.27768928"
+         id="rect9023"
+         width="301.625"
+         height="60.854168"
+         x="848.9566"
+         y="-660.53217" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/edit-transactions.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:16.93333244px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="907.46857"
+         y="-634.23975"
+         id="text9027"><tspan
+           sodipodi:role="line"
+           x="907.46857"
+           y="-634.23975"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:16.93333244px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Ultra-Bold';opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.52819526;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647"
+           id="tspan9025">Fleischerei Berlin</tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/edit-transactions.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:25.39999962px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#b4b5b0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="907.80084"
+         y="-612.12665"
+         id="text9031"><tspan
+           sodipodi:role="line"
+           id="tspan9029"
+           x="907.80084"
+           y="-612.12665"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#b4b5b0;fill-opacity:1;stroke-width:0.26458332">0x0bed7abd61247635c1973eb38474a2516ed1d884</tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/edit-transactions.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#b4b5b0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="848.13116"
+         y="-674.49817"
+         id="text9043"><tspan
+           sodipodi:role="line"
+           id="tspan9041"
+           x="848.13116"
+           y="-674.49817"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';fill:#b4b5b0;fill-opacity:1;stroke-width:0.26458332">RECEIVER</tspan></text>
+      <image
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/edit-transactions.png"
+         transform="scale(1,-1)"
+         width="40.745998"
+         height="40.745998"
+         preserveAspectRatio="none"
+         style="display:inline;image-rendering:optimizeSpeed"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAYAAAA6/NlyAAAABHNCSVQICAgIfAhkiAAAAPxJREFU aIHtmsEJAkEMRR0ZrGP2ZEuWYAdqBWIFWoIteZo69DI2MEE+JC78/Hec3SV5BLIhTLmf32OTiO3a CfwbCbMjYXaq9eD23LsEOB1e0PvRcdNVWMLsSJgds0tbXc6ri3qB/gXSVVjC7EiYnTLGmG48lmWZ frBW90bj9t6n5+kqLGF2JMxOtbqx1eUelw8UIHrjYeVpeaWrsITZkTA7Fe2iFl4zdnQ+6SosYXYk zI65l46esVGO1930HN3MpKuwhNmRMDultQbdxPOadb1AZ/V0FZYwOxJmJ/yOR/ReGs0zXYUlzI6E 2XGbpdGNhAW6UdEs/QMJsyNhdr4hF034FiHlLQAAAABJRU5ErkJggg== "
+         id="image8985"
+         x="859.5401"
+         y="609.73236" />
+      <rect
+         y="-599.66895"
+         x="848.85309"
+         height="19.84375"
+         width="301.625"
+         id="rect89483-9"
+         style="display:inline;opacity:1;fill:#9778f9;fill-opacity:1;stroke-width:0.51618099"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/edit-transactions.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="1099.243"
+         y="-586.9549"
+         id="text89487-2"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/edit-transactions.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           x="1099.243"
+           y="-586.9549"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#f9f9f9;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan89485-0">Ethereum</tspan></text>
+    </g>
+    <g
+       transform="translate(0,209.55)"
+       style="display:inline"
+       inkscape:label="text"
+       id="g9055"
+       inkscape:groupmode="layer">
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/edit-transactions.png"
+         id="text9053"
+         y="-707.3006"
+         x="899.55817"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#b4b5b0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.39999962px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';fill:#b4b5b0;fill-opacity:1;stroke-width:0.26458332"
+           y="-707.3006"
+           x="899.55817"
+           id="tspan9051"
+           sodipodi:role="line">EDIT TRANSACTION</tspan></text>
+    </g>
+    <g
+       transform="translate(0,209.55)"
+       style="display:inline"
+       inkscape:label="topbar"
+       id="g9079"
+       inkscape:groupmode="layer">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/edit-transactions.png"
+         y="-800.33282"
+         x="832.81964"
+         height="35.682171"
+         width="332.88589"
+         id="rect9057"
+         style="display:inline;opacity:1;fill:#7ff000;fill-opacity:0;stroke:none;stroke-width:0.13055393;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/edit-transactions.png"
+         y="-800.58972"
+         x="832.36713"
+         height="43.089287"
+         width="333.375"
+         id="rect9059"
+         style="display:inline;opacity:1;fill:#1d1d1d;fill-opacity:1;stroke:none;stroke-width:0.53097576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/edit-transactions.png"
+         id="text9063"
+         y="-774.67499"
+         x="887.57904"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.75555611px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           y="-774.67499"
+           x="887.57904"
+           id="tspan9061"
+           sodipodi:role="line">parity</tspan></text>
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/edit-transactions.png"
+         id="path9065"
+         d="m 864.90975,-792.02896 -15.576,9.7324 2.0481,3.27751 4.3197,-2.67699 v -2.0951 h 3.3808 l 7.9114,-4.90282 z m 2.6287,4.20653 -6.5051,4.03129 h 7.2845 l 1.2541,-0.7772 z m 2.5781,4.12552 -1.6478,1.02117 v 1.89009 h -3.05 l -4.2305,2.62174 h 6.9014 l 3.9535,-2.44996 z m -13.9331,2.91126 -4.2569,2.63808 2.0334,3.2541 1.7539,-1.08686 v -2.18358 h 3.5235 l 4.2306,-2.62174 z m 16.4043,1.04326 -4.1067,2.54502 v 2.0389 h -3.2901 l -8.2152,5.09099 2.0909,3.34592 15.5761,-9.73234 z m -16.2492,4.58392 -1.8339,1.13653 1.9265,3.08293 6.8088,-4.21946 z"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.06720092;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/edit-transactions.png"
+         inkscape:connector-curvature="0"
+         id="path9067"
+         d="M 1165.7598,-757.50049 H 832.37435"
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35441342;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/edit-transactions.png"
+         transform="translate(825.81025,-800.81626)"
+         id="g9073">
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.38484848"
+           inkscape:connector-curvature="0"
+           d="m 258.89327,12.479232 -6.92728,3.078788 v 4.618181 c 0,4.275667 2.95179,8.262697 6.92728,9.236364 3.97548,-0.973667 6.92727,-4.960697 6.92727,-9.236364 V 15.55802 Z"
+           id="path9069"
+           sodipodi:nodetypes="ccscscc" />
+        <use
+           id="use9071"
+           style="display:inline;fill:#6de95a;fill-opacity:1;stroke:none"
+           xlink:href="#symbol78675"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%"
+           transform="matrix(1.4545455,0,0,1.4545455,249.6569,11.709535)" />
+      </g>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/edit-transactions.png"
+         id="text9077"
+         y="-774.336"
+         x="1099.7434"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#6de95a;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.11111069px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#6de95a;fill-opacity:1;stroke-width:0.26458332"
+           y="-774.336"
+           x="1099.7434"
+           id="tspan9075"
+           sodipodi:role="line">Secured</tspan></text>
+    </g>
+  </g>
+  <g
+     transform="translate(0,740.83333)"
+     inkscape:groupmode="layer"
+     id="g88369"
+     inkscape:label="Sign Transaction"
+     style="display:inline">
+    <g
+       inkscape:label="background"
+       inkscape:groupmode="layer"
+       id="g88303"
+       transform="translate(0,496.75003)"
+       style="display:inline">
+      <rect
+         style="opacity:1;fill:#1d1d1d;fill-opacity:1;stroke:#40428f;stroke-width:0.52945471;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647"
+         id="rect88301"
+         width="332.84555"
+         height="586.92352"
+         x="443.63754"
+         y="-1087.7583"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-transaction.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path88305"
+         d="m 445.81709,-1044.7005 -2.4406,543.85716 332.1546,-1.30257 -0.2441,-541.76489 z"
+         style="display:inline;opacity:1;fill:url(#pattern88371-3);fill-opacity:1;stroke:none;stroke-width:1.08645272px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-transaction.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g88329"
+       inkscape:label="button_sign"
+       style="display:inline"
+       transform="translate(0,209.55)">
+      <rect
+         y="-272.51624"
+         x="459.23312"
+         height="43.089287"
+         width="301.625"
+         id="rect170780-7"
+         style="display:inline;fill:#81e471;fill-opacity:1;stroke:none;stroke-width:0.27183351;stroke-opacity:1"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-transaction.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         id="text170784-3"
+         y="-244.57318"
+         x="552.14301"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1d1d1d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-transaction.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';fill:#1d1d1d;fill-opacity:1;stroke-width:0.26458332"
+           y="-244.57318"
+           x="552.14301"
+           id="tspan170782-6"
+           sodipodi:role="line">Sign Transaction</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="receiver">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-transaction.png"
+         style="display:inline;fill:#f9f9f9;fill-opacity:1;stroke-width:0.27768928"
+         id="rect9023-5"
+         width="301.625"
+         height="60.854168"
+         x="460.37494"
+         y="-164.48849" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-transaction.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:16.93333244px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="518.8869"
+         y="-138.19608"
+         id="text9027-6"><tspan
+           sodipodi:role="line"
+           x="518.8869"
+           y="-138.19608"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:16.93333244px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Ultra-Bold';opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.52819526;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647"
+           id="tspan9025-2">Fleischerei Berlin</tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-transaction.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:25.39999962px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#b4b5b0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="519.21918"
+         y="-116.08282"
+         id="text9031-9"><tspan
+           sodipodi:role="line"
+           id="tspan9029-1"
+           x="519.21918"
+           y="-116.08282"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#b4b5b0;fill-opacity:1;stroke-width:0.26458332">0x0bed7abd61247635c1973eb38474a2516ed1d884</tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-transaction.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#b4b5b0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="459.54944"
+         y="-178.45451"
+         id="text9043-2"><tspan
+           sodipodi:role="line"
+           id="tspan9041-7"
+           x="459.54944"
+           y="-178.45451"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';fill:#b4b5b0;fill-opacity:1;stroke-width:0.26458332">RECEIVER</tspan></text>
+      <image
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-transaction.png"
+         transform="scale(1,-1)"
+         width="40.745998"
+         height="40.745998"
+         preserveAspectRatio="none"
+         style="display:inline;image-rendering:optimizeSpeed"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAYAAAA6/NlyAAAABHNCSVQICAgIfAhkiAAAAPxJREFU aIHtmsEJAkEMRR0ZrGP2ZEuWYAdqBWIFWoIteZo69DI2MEE+JC78/Hec3SV5BLIhTLmf32OTiO3a CfwbCbMjYXaq9eD23LsEOB1e0PvRcdNVWMLsSJgds0tbXc6ri3qB/gXSVVjC7EiYnTLGmG48lmWZ frBW90bj9t6n5+kqLGF2JMxOtbqx1eUelw8UIHrjYeVpeaWrsITZkTA7Fe2iFl4zdnQ+6SosYXYk zI65l46esVGO1930HN3MpKuwhNmRMDultQbdxPOadb1AZ/V0FZYwOxJmJ/yOR/ReGs0zXYUlzI6E 2XGbpdGNhAW6UdEs/QMJsyNhdr4hF034FiHlLQAAAABJRU5ErkJggg== "
+         id="image8985-0"
+         x="470.9585"
+         y="113.68851" />
+      <rect
+         y="-104.1635"
+         x="460.37494"
+         height="19.84375"
+         width="301.625"
+         id="rect89483-1"
+         style="display:inline;opacity:1;fill:#9778f9;fill-opacity:1;stroke-width:0.51618099"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-transaction.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="710.76489"
+         y="-91.44944"
+         id="text89487-8"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-transaction.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           x="710.76489"
+           y="-91.44944"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#f9f9f9;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan89485-7">Ethereum</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer7"
+       inkscape:label="transaction"
+       style="display:inline">
+      <text
+         id="text89469"
+         y="-338.21204"
+         x="459.76456"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#b4b5b0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-transaction.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';fill:#b4b5b0;fill-opacity:1;stroke-width:0.26458332"
+           y="-338.21204"
+           x="459.76456"
+           id="tspan89467"
+           sodipodi:role="line">TRANSACTION DETAILS</tspan></text>
+      <rect
+         style="display:inline;fill:#f9f9f9;fill-opacity:1;stroke-width:0.39649683"
+         id="rect85108-1"
+         width="301.625"
+         height="124.06567"
+         x="460.27255"
+         y="-327.17798"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-transaction.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:16.93333244px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1d1d1d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="530.21429"
+         y="-299.9166"
+         id="text1060-0-6"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-transaction.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           x="530.21429"
+           y="-299.9166"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:16.93333244px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Ultra-Bold';opacity:1;vector-effect:none;fill:#1d1d1d;fill-opacity:1;stroke:none;stroke-width:0.52819526;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647"
+           id="tspan165422-6-5">You are about to send </tspan></text>
+      <g
+         id="g237244"
+         transform="translate(-764.89192,-635.81456)"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-transaction.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <rect
+           y="349.40176"
+           x="1314.3278"
+           height="28.045832"
+           width="123.29583"
+           id="rect89666"
+           style="opacity:1;fill:#1d1d1d;fill-opacity:1;stroke:none;stroke-width:0.30356646;stroke-opacity:1" />
+        <text
+           id="text1060-0-6-6"
+           y="370.33911"
+           x="1322.6195"
+           style="font-style:normal;font-weight:normal;font-size:16.93333244px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             id="tspan165422-6-5-9"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:19.75555611px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Ultra-Bold';opacity:1;vector-effect:none;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.52819526;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647"
+             y="370.33911"
+             x="1322.6195"
+             sodipodi:role="line">3.14159</tspan></text>
+        <text
+           id="text1060-0-6-6-3"
+           y="370.33911"
+           x="1398.0518"
+           style="font-style:normal;font-weight:normal;font-size:16.93333244px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#b4b5b0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             id="tspan165422-6-5-9-7"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:19.75555611px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Ultra-Bold';opacity:1;vector-effect:none;fill:#b4b5b0;fill-opacity:1;stroke:none;stroke-width:0.52819526;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647"
+             y="370.33911"
+             x="1398.0518"
+             sodipodi:role="line">ETH</tspan></text>
+        <text
+           id="text1060-0-6-6-6"
+           y="390.18307"
+           x="1355.5713"
+           style="font-style:normal;font-weight:normal;font-size:16.93333244px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             id="tspan165422-6-5-9-8"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:9.87777805px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Ultra-Bold';opacity:1;vector-effect:none;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.52819526;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647"
+             y="390.18307"
+             x="1355.5713"
+             sodipodi:role="line">Ethereum</tspan></text>
+      </g>
+      <g
+         style="display:inline"
+         id="g237244-3"
+         transform="matrix(1.0977012,0,0,1,-902.58495,-615.97057)"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-transaction.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <rect
+           y="357.33896"
+           x="1322.7837"
+           height="19.844"
+           width="112.32181"
+           id="rect89666-0-6"
+           style="display:inline;opacity:1;fill:#b4b5b0;fill-opacity:1;stroke:none;stroke-width:0.24372052;stroke-opacity:1" />
+        <text
+           id="text1060-0-6-6-6-2"
+           y="370.60361"
+           x="1343.1575"
+           style="font-style:normal;font-weight:normal;font-size:16.93333244px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             id="tspan165422-6-5-9-8-9"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:9.87777805px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Ultra-Bold';opacity:1;vector-effect:none;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.52819526;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647"
+             y="370.60361"
+             x="1343.1575"
+             sodipodi:role="line">2100 GAS  /  FEE</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.93333244px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1d1d1d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="564.93866"
+         y="-220.0631"
+         id="text1060-0-6-9"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-transaction.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           x="564.93866"
+           y="-220.0631"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';opacity:1;vector-effect:none;fill:#b4b5b0;fill-opacity:1;stroke:none;stroke-width:0.52819526;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647"
+           id="tspan165422-6-5-3">(tap to edit amounts)</tspan></text>
+    </g>
+    <g
+       transform="translate(0,209.55)"
+       style="display:inline"
+       inkscape:label="account_from"
+       id="g89489"
+       inkscape:groupmode="layer">
+      <rect
+         y="-657.37799"
+         x="460.27255"
+         height="60.854168"
+         width="301.625"
+         id="rect89471"
+         style="display:inline;fill:#f9f9f9;fill-opacity:1;stroke-width:0.27768928"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-transaction.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         id="text89475"
+         y="-631.08557"
+         x="518.78436"
+         style="font-style:normal;font-weight:normal;font-size:16.93333244px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-transaction.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           id="tspan89473"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:16.93333244px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Ultra-Bold';opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.52819526;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647"
+           y="-631.08557"
+           x="518.78436"
+           sodipodi:role="line">Small Change</tspan></text>
+      <text
+         id="text89479"
+         y="-608.97247"
+         x="519.11664"
+         style="font-style:normal;font-weight:normal;font-size:25.39999962px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#b4b5b0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-transaction.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#b4b5b0;fill-opacity:1;stroke-width:0.26458332"
+           y="-608.97247"
+           x="519.11664"
+           id="tspan89477"
+           sodipodi:role="line">0x0bed7abd61247635c1973eb38474a2516ed1d884</tspan></text>
+      <image
+         width="40.745831"
+         height="40.745831"
+         preserveAspectRatio="none"
+         style="display:inline;image-rendering:optimizeSpeed"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAYAAAA6/NlyAAAABHNCSVQICAgIfAhkiAAAAPNJREFU aIHtmrENAjEMRQmKmCOpWIkR2ACYADEBjMBKVJkDmtBQ2kJGNid9/1f6dDk/WfJZVsr1+JyrRKyX TuDfUBgdCqNTtQeX+1aMH3aPsGR+wZpnugpTGB0Ko1PmnOIsfTu9xBe0rqhh7epe5+/PGzGersIU RofC6FStG2uMMcR4790jH/N3tfy1eLoKUxgdCqNTWmviLO212Yieva3fTVdhCqNDYXSq1hW5lwaB wuhQGJ3idcfDOjNb8fo7pKswhdGhMDrhG4+l4MbjA4XRoTA6ape2Yt2cRJ+jka7CFEaHwuiE38SL hjfxvkBhdCiMzhvThE0BOQ4NsAAAAABJRU5ErkJggg== "
+         id="image89481"
+         x="469.56271"
+         y="-647.1261"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-transaction.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         y="-597.05304"
+         x="460.27255"
+         height="19.84375"
+         width="301.625"
+         id="rect89483"
+         style="display:inline;opacity:1;fill:#9778f9;fill-opacity:1;stroke-width:0.51618099"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-transaction.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="710.66248"
+         y="-584.33899"
+         id="text89487"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-transaction.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           x="710.66248"
+           y="-584.33899"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#f9f9f9;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan89485">Ethereum</tspan></text>
+      <text
+         id="text89465"
+         y="-671.34399"
+         x="459.44705"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#b4b5b0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-transaction.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';fill:#b4b5b0;fill-opacity:1;stroke-width:0.26458332"
+           y="-671.34399"
+           x="459.44705"
+           id="tspan89463"
+           sodipodi:role="line">FROM ACCOUNT</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g88343"
+       inkscape:label="text"
+       style="display:inline"
+       transform="translate(0,209.55)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#b4b5b0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="505.80148"
+         y="-707.3006"
+         id="text88333"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-transaction.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan88331"
+           x="505.80148"
+           y="-707.3006"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.39999962px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';fill:#b4b5b0;fill-opacity:1;stroke-width:0.26458332">SIGN TRANSACTION</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g88367"
+       inkscape:label="topbar"
+       style="display:inline"
+       transform="translate(0,209.55)">
+      <rect
+         style="display:inline;opacity:1;fill:#7ff000;fill-opacity:0;stroke:none;stroke-width:0.13055393;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647"
+         id="rect88345"
+         width="332.88589"
+         height="35.682171"
+         x="443.82553"
+         y="-800.33282"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-transaction.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="display:inline;opacity:1;fill:#1d1d1d;fill-opacity:1;stroke:none;stroke-width:0.53097576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647"
+         id="rect88347"
+         width="333.375"
+         height="43.089287"
+         x="443.37302"
+         y="-800.58972"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-transaction.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="498.58493"
+         y="-774.67499"
+         id="text88351"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-transaction.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan88349"
+           x="498.58493"
+           y="-774.67499"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.75555611px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">parity</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.06720092;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 475.91569,-792.02896 -15.576,9.7324 2.0481,3.27751 4.3197,-2.67699 v -2.0951 h 3.3808 l 7.9114,-4.90282 z m 2.6287,4.20653 -6.5051,4.03129 h 7.2845 l 1.2541,-0.7772 z m 2.5781,4.12552 -1.6478,1.02117 v 1.89009 h -3.05 l -4.2305,2.62174 h 6.9014 l 3.9535,-2.44996 z m -13.9331,2.91126 -4.2569,2.63808 2.0334,3.2541 1.7539,-1.08686 v -2.18358 h 3.5235 l 4.2306,-2.62174 z m 16.4043,1.04326 -4.1067,2.54502 v 2.0389 h -3.2901 l -8.2152,5.09099 2.0909,3.34592 15.5761,-9.73234 z m -16.2492,4.58392 -1.8339,1.13653 1.9265,3.08293 6.8088,-4.21946 z"
+         id="path88353"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-transaction.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35441342;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 776.76579,-757.50049 H 443.38029"
+         id="path88355"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-transaction.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <g
+         id="g88361"
+         transform="translate(436.81619,-800.81626)"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-transaction.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           sodipodi:nodetypes="ccscscc"
+           id="path88357"
+           d="m 258.89327,12.479232 -6.92728,3.078788 v 4.618181 c 0,4.275667 2.95179,8.262697 6.92728,9.236364 3.97548,-0.973667 6.92727,-4.960697 6.92727,-9.236364 V 15.55802 Z"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.38484848" />
+        <use
+           transform="matrix(1.4545455,0,0,1.4545455,249.6569,11.709535)"
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           xlink:href="#symbol78675"
+           style="display:inline;fill:#6de95a;fill-opacity:1;stroke:none"
+           id="use88359" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#6de95a;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="710.74915"
+         y="-774.336"
+         id="text88365"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-transaction.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan88363"
+           x="710.74915"
+           y="-774.336"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.11111069px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#6de95a;fill-opacity:1;stroke-width:0.26458332">Secured</tspan></text>
+    </g>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="Scanner"
+     id="g8538"
+     inkscape:groupmode="layer"
+     transform="translate(0,740.83333)">
+    <g
+       inkscape:groupmode="layer"
+       id="layer15"
+       inkscape:label="background_pic"
+       style="display:inline">
+      <image
+         sodipodi:absref="/home/user/screen_qr_scan.jpg"
+         y="-587.33301"
+         x="1186.6508"
+         id="image237825"
+         xlink:href="file:///home/user/designs/Parity/references/screen_qr_scan.jpg"
+         preserveAspectRatio="none"
+         height="543.6908"
+         width="407.7681"
+         clip-path="url(#clipPath237961)"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PDFs/scanner.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         style="opacity:0.97000002"
+         transform="translate(-1153.8255,-4.2448238)" />
+    </g>
+    <g
+       style="display:inline;opacity:0.7"
+       transform="translate(0,496.75003)"
+       id="g8080"
+       inkscape:groupmode="layer"
+       inkscape:label="background">
+      <path
+         inkscape:connector-curvature="0"
+         style="display:inline;opacity:1;fill:#1d1d1d;fill-opacity:1;stroke:#40428f;stroke-width:0.52945471;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647"
+         d="m 56.291068,-1088.3313 v 586.92836 H 389.13687 v -586.92836 z m 49.957602,113.93392 h 224.8959 v 224.8959 h -224.8959 z"
+         id="rect8078-4"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PDFs/scanner.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       transform="translate(0,209.55)"
+       style="display:inline"
+       inkscape:label="bottom_buttons"
+       id="g8414"
+       inkscape:groupmode="layer">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8404"
+         d="M 389.68387,-269.56279 H 56.298368"
+         style="fill:none;stroke:#ffffff;stroke-width:0.35441342;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PDFs/scanner.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         y="-269.51019"
+         x="221.93153"
+         height="55.866875"
+         width="167.99879"
+         id="rect8406"
+         style="display:inline;opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.63219059;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PDFs/scanner.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         id="text8400"
+         y="-237.12332"
+         x="294.04639"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1d1d1d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PDFs/scanner.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';fill:#1d1d1d;fill-opacity:1;stroke-width:0.26458332"
+           y="-237.12332"
+           x="294.04639"
+           id="tspan8398"
+           sodipodi:role="line">Accounts</tspan></text>
+      <use
+         transform="matrix(0.05473798,0,0,0.05473798,256.76237,-251.65371)"
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         xlink:href="#icon-briefcase"
+         style="fill:#1d1d1d;fill-opacity:1;stroke:none"
+         id="use8402"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PDFs/scanner.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:1;fill:#1d1d1d;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 56.254368,-269.5109 H 221.93157 v 55.79076 H 56.254368 Z"
+         id="rect237902"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PDFs/scanner.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         id="text8410"
+         y="-236.53214"
+         x="131.2975"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PDFs/scanner.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';fill:#ffffff;stroke-width:0.26458332"
+           y="-236.53214"
+           x="131.2975"
+           id="tspan8408"
+           sodipodi:role="line">Scanner</tspan></text>
+      <use
+         transform="matrix(0.05971416,0,0,0.05971416,89.370168,-252.88048)"
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         xlink:href="#icon-qrcode"
+         style="fill:#ffffff;stroke:none"
+         id="use8412"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PDFs/scanner.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       transform="translate(0,209.55)"
+       style="display:inline"
+       inkscape:label="text"
+       id="g8512"
+       inkscape:groupmode="layer">
+      <text
+         id="text8502"
+         y="-707.8396"
+         x="170.57863"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#b4b5b0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PDFs/scanner.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.39999962px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';fill:#f9f9f9;fill-opacity:1;stroke-width:0.26458332"
+           y="-707.8396"
+           x="170.57863"
+           id="tspan8500"
+           sodipodi:role="line">SCANNER</tspan></text>
+      <text
+         id="text8506"
+         y="-414.21527"
+         x="222.70595"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#757575;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PDFs/scanner.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;line-height:25.39999962px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke-width:0.26458332"
+           y="-414.21527"
+           x="222.70595"
+           sodipodi:role="line"
+           id="tspan8546">Scan QR Code</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="222.71803"
+         y="-385.69061"
+         id="text10325"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PDFs/scanner.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           x="222.71803"
+           y="-385.69061"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;line-height:19.04999924px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan10329">To Sign A New Transaction</tspan></text>
+    </g>
+    <g
+       transform="translate(0,209.55)"
+       style="display:inline"
+       inkscape:label="topbar"
+       id="g8536"
+       inkscape:groupmode="layer">
+      <rect
+         y="-800.87177"
+         x="56.743538"
+         height="35.682171"
+         width="332.88589"
+         id="rect8514"
+         style="display:inline;opacity:1;fill:#7ff000;fill-opacity:0;stroke:none;stroke-width:0.13055393;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PDFs/scanner.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         y="-801.12866"
+         x="56.291023"
+         height="43.089287"
+         width="333.375"
+         id="rect8516"
+         style="display:inline;opacity:1;fill:#1d1d1d;fill-opacity:1;stroke:none;stroke-width:0.53097576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PDFs/scanner.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         id="text8520"
+         y="-775.21393"
+         x="111.50293"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PDFs/scanner.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.75555611px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           y="-775.21393"
+           x="111.50293"
+           id="tspan8518"
+           sodipodi:role="line">parity</tspan></text>
+      <path
+         id="path8522"
+         d="m 88.833768,-792.56732 -15.576,9.7324 2.0481,3.27751 4.3197,-2.67699 v -2.0951 h 3.3808 l 7.9114,-4.90282 z m 2.6287,4.20653 -6.5051,4.03129 h 7.2845 l 1.2541,-0.7772 z m 2.5781,4.12552 -1.6478,1.02117 v 1.89009 h -3.05 l -4.2305,2.62174 h 6.9014 l 3.9535,-2.44996 z m -13.9331,2.91126 -4.2569,2.63808 2.0334,3.2541 1.7539,-1.08686 v -2.18358 h 3.5235 l 4.2306,-2.62174 z m 16.4043,1.04326 -4.1067,2.54502 v 2.0389 h -3.2901 l -8.2152,5.09099 2.0909,3.34592 15.5761,-9.73234 z m -16.2492,4.58392 -1.8339,1.13653 1.9265,3.08293 6.8088,-4.21946 z"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.06720092;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PDFs/scanner.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path8524"
+         d="M 389.68387,-758.03885 H 56.298368"
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35441342;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PDFs/scanner.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <g
+         transform="translate(48.675868,-801.35462)"
+         id="g8530"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PDFs/scanner.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.38484848"
+           inkscape:connector-curvature="0"
+           d="m 258.89327,12.479232 -6.92728,3.078788 v 4.618181 c 0,4.275667 2.95179,8.262697 6.92728,9.236364 3.97548,-0.973667 6.92727,-4.960697 6.92727,-9.236364 V 15.55802 Z"
+           id="path8526"
+           sodipodi:nodetypes="ccscscc" />
+        <use
+           id="use8528"
+           style="display:inline;fill:#6de95a;fill-opacity:1;stroke:none"
+           xlink:href="#symbol78675"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%"
+           transform="matrix(1.4545455,0,0,1.4545455,249.6569,11.709535)" />
+      </g>
+      <text
+         id="text8534"
+         y="-774.87494"
+         x="322.60876"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#6de95a;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PDFs/scanner.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.11111069px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#6de95a;fill-opacity:1;stroke-width:0.26458332"
+           y="-774.87494"
+           x="322.60876"
+           id="tspan8532"
+           sodipodi:role="line">Secured</tspan></text>
+    </g>
+  </g>
+  <g
+     transform="translate(0,740.83333)"
+     style="display:inline"
+     inkscape:label="Security"
+     id="g237382"
+     inkscape:groupmode="layer">
+    <g
+       style="display:inline"
+       transform="translate(0,496.75003)"
+       id="g237250"
+       inkscape:groupmode="layer"
+       inkscape:label="background">
+      <rect
+         y="-445.02158"
+         x="57.349236"
+         height="586.92352"
+         width="332.84555"
+         id="rect237246"
+         style="opacity:1;fill:#1d1d1d;fill-opacity:1;stroke:#40428f;stroke-width:0.52945471;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647"
+         inkscape:export-filename="/home/user/device-security.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path237248"
+         d="m 59.697597,-401.23898 -2.440485,542.26729 333.202148,-0.77336 -0.24405,-540.70429 z"
+         style="display:inline;opacity:0.5;fill:url(#pattern237384);fill-opacity:1;stroke:none;stroke-width:1.08645272px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:transform-center-x="-52.916667"
+         inkscape:transform-center-y="49.741667"
+         inkscape:export-filename="/home/user/device-security.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       transform="translate(0,209.55)"
+       style="display:inline"
+       inkscape:label="bottom_buttons"
+       id="g237270"
+       inkscape:groupmode="layer" />
+    <g
+       transform="translate(0,209.55)"
+       style="display:inline"
+       inkscape:label="accounts"
+       id="g237354"
+       inkscape:groupmode="layer">
+      <text
+         id="text237274"
+         y="-86.39444"
+         x="73.769287"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#b4b5b0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"
+         inkscape:export-filename="/home/user/device-security.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';fill:#b4b5b0;fill-opacity:1;stroke-width:0.26458332"
+           y="-86.39444"
+           x="73.769287"
+           id="tspan237272"
+           sodipodi:role="line">YOUR DEVICE IS</tspan></text>
+      <rect
+         y="368.12976"
+         x="71.838669"
+         height="43.089287"
+         width="301.625"
+         id="rect237276"
+         style="fill:#b4b5b0;fill-opacity:1;stroke:none;stroke-width:0.27183351;stroke-opacity:1"
+         inkscape:export-filename="/home/user/device-security.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         id="text237280"
+         y="396.07248"
+         x="169.30084"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"
+         inkscape:export-filename="/home/user/device-security.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           y="396.07248"
+           x="169.30084"
+           id="tspan237278"
+           sodipodi:role="line">Back to previous</tspan></text>
+      <rect
+         y="-68.990967"
+         x="72.342926"
+         height="50.377201"
+         width="301.625"
+         id="rect237286"
+         style="display:inline;fill:#6de95a;fill-opacity:1;stroke-width:0.25265679"
+         inkscape:export-filename="/home/user/device-security.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         id="text237292"
+         y="-38.941509"
+         x="122.1469"
+         style="font-style:normal;font-weight:normal;font-size:16.93333244px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1d1d1d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"
+         inkscape:export-filename="/home/user/device-security.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           id="tspan237290"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:16.93333244px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Ultra-Bold';opacity:1;vector-effect:none;fill:#1d1d1d;fill-opacity:1;stroke:none;stroke-width:0.52819526;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647"
+           y="-38.941509"
+           x="122.1469"
+           sodipodi:role="line">Secured</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="78.135887"
+         y="83.269135"
+         id="text5249"
+         inkscape:export-filename="/home/user/device-security.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           x="78.135887"
+           y="83.269135"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#f9f9f9;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan88299">Secured devices do not have access to the internet </tspan><tspan
+           sodipodi:role="line"
+           x="78.135887"
+           y="99.144135"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#f9f9f9;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan237616">nor the sensors to connect to the internet access,</tspan><tspan
+           sodipodi:role="line"
+           x="78.135887"
+           y="115.01913"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#f9f9f9;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan237618">nor any extraneous apps installed.</tspan></text>
+      <g
+         transform="translate(-173.74388,30.573248)"
+         style="display:inline"
+         id="g85147-3"
+         inkscape:export-filename="/home/user/device-security.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           sodipodi:nodetypes="ccscscc"
+           id="path87377-6"
+           d="m 258.89327,12.479232 -6.92728,3.078788 v 4.618181 c 0,4.275667 2.95179,8.262697 6.92728,9.236364 3.97548,-0.973667 6.92727,-4.960697 6.92727,-9.236364 V 15.55802 Z"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.38484848" />
+        <use
+           transform="matrix(1.4545455,0,0,1.4545455,249.6569,11.709535)"
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           xlink:href="#symbol78675"
+           style="display:inline;fill:#6de95a;fill-opacity:1;stroke:none"
+           id="use87346-3-7" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#6de95a;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="103.90086"
+         y="57.053375"
+         id="text87384-5"
+         inkscape:export-filename="/home/user/device-security.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan87382-3"
+           x="103.90086"
+           y="57.053375"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.11111069px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#6de95a;fill-opacity:1;stroke-width:0.26458332">Secured</tspan></text>
+      <path
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.38484848"
+         inkscape:connector-curvature="0"
+         d="m 85.149392,145.8642 -6.9273,3.07879 v 4.61818 c 0,4.27567 2.9518,8.2627 6.9273,9.23635 3.9755,-0.97365 6.9273,-4.96068 6.9273,-9.23635 v -4.61818 z"
+         id="path87377-6-6"
+         sodipodi:nodetypes="ccscscc"
+         inkscape:export-filename="/home/user/device-security.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <use
+         id="use87346-3-7-2"
+         style="display:inline;fill:#fbe35a;fill-opacity:1;stroke:none"
+         xlink:href="#symbol78675"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         transform="matrix(1.4545455,0,0,1.4545455,75.913001,145.09451)"
+         inkscape:export-filename="/home/user/device-security.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#fbe35a;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="103.78372"
+         y="159.86534"
+         id="text87384-5-9"
+         inkscape:export-filename="/home/user/device-security.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan87382-3-1"
+           x="103.78372"
+           y="159.86534"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.11111069px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#fbe35a;fill-opacity:1;stroke-width:0.26458332">Caution</tspan></text>
+      <path
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.38484848"
+         inkscape:connector-curvature="0"
+         d="m 85.149392,242.03081 -6.9273,3.07879 v 4.61818 c 0,4.27567 2.9518,8.2627 6.9273,9.23635 3.9755,-0.97365 6.9273,-4.96068 6.9273,-9.23635 v -4.61818 z"
+         id="path87377-6-6-5"
+         sodipodi:nodetypes="ccscscc"
+         inkscape:export-filename="/home/user/device-security.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <use
+         id="use87346-3-7-2-3"
+         style="display:inline;fill:#f03020;fill-opacity:1;stroke:none"
+         xlink:href="#symbol78675"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         transform="matrix(1.4545455,0,0,1.4545455,75.913001,241.26112)"
+         inkscape:export-filename="/home/user/device-security.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#fbe35a;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="103.34966"
+         y="256.03134"
+         id="text87384-5-9-5"
+         inkscape:export-filename="/home/user/device-security.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan87382-3-1-6"
+           x="103.34966"
+           y="256.03134"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.11111069px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#f03020;fill-opacity:1;stroke-width:0.26458332">Insecure</tspan></text>
+      <text
+         id="text237274-0"
+         y="22.888893"
+         x="74.734947"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#b4b5b0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"
+         inkscape:export-filename="/home/user/device-security.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';fill:#b4b5b0;fill-opacity:1;stroke-width:0.26458332"
+           y="22.888893"
+           x="74.734947"
+           id="tspan237272-4"
+           sodipodi:role="line">DEVICE SECURITY</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="77.156464"
+         y="185.24013"
+         id="text5249-7"
+         inkscape:export-filename="/home/user/device-security.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           x="77.156464"
+           y="185.24013"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#f9f9f9;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan88299-1">Exercise caution with devices that do not currently</tspan><tspan
+           sodipodi:role="line"
+           x="77.156464"
+           y="201.11513"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#f9f9f9;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan237618-5">have  access to the internet but could be put online</tspan><tspan
+           sodipodi:role="line"
+           x="77.156464"
+           y="216.99013"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#f9f9f9;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan237734">at any moment.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="77.156464"
+         y="281.54788"
+         id="text5249-7-9"
+         inkscape:export-filename="/home/user/device-security.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           x="77.156464"
+           y="281.54788"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#f9f9f9;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan88299-1-7">Insecure devices have access to the internet and </tspan><tspan
+           sodipodi:role="line"
+           x="77.156464"
+           y="297.42288"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#f9f9f9;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan237618-5-6">are thus at higher risk than devices kept offline. </tspan><tspan
+           sodipodi:role="line"
+           x="77.156464"
+           y="313.29788"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#f9f9f9;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan237742">We reccommend not keeping high ETH balances on</tspan><tspan
+           sodipodi:role="line"
+           x="77.156464"
+           y="329.17288"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#f9f9f9;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan237744">insecure devices. </tspan></text>
+    </g>
+    <g
+       transform="translate(0,209.55)"
+       style="display:inline"
+       inkscape:label="tally"
+       id="g237356"
+       inkscape:groupmode="layer" />
+    <g
+       transform="translate(0,209.55)"
+       style="display:inline"
+       inkscape:label="topbar"
+       id="g237380"
+       inkscape:groupmode="layer">
+      <rect
+         y="-157.82426"
+         x="57.537285"
+         height="35.682171"
+         width="332.88589"
+         id="rect237358"
+         style="display:inline;opacity:1;fill:#7ff000;fill-opacity:0;stroke:none;stroke-width:0.13055393;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647"
+         inkscape:export-filename="/home/user/device-security.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         y="-158.08116"
+         x="57.084488"
+         height="43.089287"
+         width="333.375"
+         id="rect237360"
+         style="display:inline;opacity:1;fill:#1d1d1d;fill-opacity:1;stroke:none;stroke-width:0.53097576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647"
+         inkscape:export-filename="/home/user/device-security.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         id="text237364"
+         y="-132.16713"
+         x="112.297"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"
+         inkscape:export-filename="/home/user/device-security.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.75555611px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           y="-132.16713"
+           x="112.297"
+           id="tspan237362"
+           sodipodi:role="line">parity</tspan></text>
+      <path
+         id="path237366"
+         d="m 89.617917,-149.52351 -15.57503,9.7324 2.048018,3.27751 4.319423,-2.67699 v -2.0951 h 3.380602 l 7.910925,-4.90282 z m 2.628545,4.20653 -6.504734,4.03129 h 7.284061 l 1.254051,-0.7772 z m 2.577915,4.12552 -1.647671,1.02117 v 1.89009 h -3.049762 l -4.230276,2.62174 h 6.901021 l 3.953199,-2.44996 z m -13.932179,2.91126 -4.256686,2.63808 2.033368,3.2541 1.753708,-1.08686 v -2.18358 h 3.523332 l 4.230336,-2.62174 z m 16.403277,1.04326 -4.106509,2.54502 v 2.0389 h -3.289889 l -8.214625,5.09099 2.090798,3.34592 15.575063,-9.73234 z m -16.24817,4.58392 -1.833828,1.13653 1.926438,3.08293 6.808371,-4.21946 z"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.06720092;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/user/device-security.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path237368"
+         d="M 390.45927,-114.99504 H 57.084563"
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35441342;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="/home/user/device-security.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <g
+         transform="translate(48.404232,-158.31081)"
+         id="g237374"
+         inkscape:export-filename="/home/user/device-security.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.38484848"
+           inkscape:connector-curvature="0"
+           d="m 258.89327,12.479232 -6.92728,3.078788 v 4.618181 c 0,4.275667 2.95179,8.262697 6.92728,9.236364 3.97548,-0.973667 6.92727,-4.960697 6.92727,-9.236364 V 15.55802 Z"
+           id="path237370"
+           sodipodi:nodetypes="ccscscc" />
+        <use
+           id="use237372"
+           style="display:inline;fill:#6de95a;fill-opacity:1;stroke:none"
+           xlink:href="#symbol78675"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%"
+           transform="matrix(1.4545455,0,0,1.4545455,249.6569,11.709535)" />
+      </g>
+      <text
+         id="text237378"
+         y="-131.82814"
+         x="322.34357"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#6de95a;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"
+         inkscape:export-filename="/home/user/device-security.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.11111069px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#6de95a;fill-opacity:1;stroke-width:0.26458332"
+           y="-131.82814"
+           x="322.34357"
+           id="tspan237376"
+           sodipodi:role="line">Secured</tspan></text>
+      <use
+         transform="matrix(2.2727273,0,0,2.2727273,82.373531,-58.997241)"
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         xlink:href="#symbol78675"
+         style="display:inline;fill:#1d1d1d;fill-opacity:1;stroke:none"
+         id="use237372-9"
+         inkscape:export-filename="/home/user/device-security.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="texts"
+     transform="translate(0,950.38333)"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:50.79999924px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1d1d1d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="52.468479"
+       y="-870.33948"
+       id="text853-2"><tspan
+         sodipodi:role="line"
+         id="tspan851-1"
+         x="52.468479"
+         y="-870.33948"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.79999924px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';fill:#1d1d1d;fill-opacity:1;stroke-width:0.26458332">parity</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:50.79999924px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1d1d1d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="190.78708"
+       y="-869.98688"
+       id="text853-2-7"><tspan
+         sodipodi:role="line"
+         id="tspan851-1-2"
+         x="190.78708"
+         y="-869.98688"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.79999924px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';fill:#757575;fill-opacity:1;stroke-width:0.26458332">mobile signer</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot88285"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion88287"><rect
+           id="rect88289"
+           width="469.99997"
+           height="117.99999"
+           x="5238"
+           y="356.00021" /></flowRegion><flowPara
+         id="flowPara88291" /></flowRoot>  </g>
+</svg>
