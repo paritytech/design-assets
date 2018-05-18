@@ -21,6 +21,11 @@
      id="defs2">
     <pattern
        inkscape:collect="always"
+       xlink:href="#pattern7921"
+       id="pattern1673"
+       patternTransform="matrix(0.05770724,-0.00142609,0.00122117,0.04874929,1271.2544,-490.30759)" />
+    <pattern
+       inkscape:collect="always"
        xlink:href="#pattern88371-3"
        id="pattern7921"
        patternTransform="matrix(0.05770724,-0.00142609,0.00122117,0.04874929,881.77059,-490.30759)" />
@@ -719,6 +724,17 @@
          x="1210.6458"
          y="-543.29102" />
     </clipPath>
+    <symbol
+       id="icon-laptop"
+       viewBox="0 0 30 28">
+      <title
+         id="title69660">laptop</title>
+      <path
+         style="stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         d="m 1.7197917,5.2916667 c -0.3638021,0 -0.6614584,-0.2976563 -0.6614584,-0.6614584 V 1.7197917 c 0,-0.3638021 0.2976563,-0.6614584 0.6614584,-0.6614584 h 4.4979166 c 0.3638021,0 0.6614584,0.2976563 0.6614584,0.6614584 v 2.9104166 c 0,0.3638021 -0.2976563,0.6614584 -0.6614584,0.6614584 z M 1.5875,1.7197917 V 4.6302083 C 1.5875,4.7005873 1.649413,4.7625 1.7197917,4.7625 H 6.2177083 C 6.2880875,4.7625 6.35,4.7005875 6.35,4.6302083 V 1.7197917 C 6.35,1.6494125 6.2880875,1.5875 6.2177083,1.5875 H 1.7197917 C 1.6494125,1.5875 1.5875,1.6494125 1.5875,1.7197917 Z M 7.2760417,5.55625 H 7.9375 V 5.953125 C 7.9375,6.1722 7.6398437,6.35 7.2760417,6.35 H 0.66145833 C 0.29765625,6.35 0,6.1722 0,5.953125 V 5.55625 Z M 4.2994792,5.953125 c 0.037306,0 0.066146,-0.02884 0.066146,-0.066146 0,-0.037306 -0.02884,-0.066146 -0.066146,-0.066146 H 3.6380208 c -0.037306,0 -0.066146,0.02884 -0.066146,0.066146 0,0.037306 0.02884,0.066146 0.066146,0.066146 z"
+         id="path69662" />
+    </symbol>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -728,10 +744,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.1767767"
-     inkscape:cx="1919.2124"
-     inkscape:cy="3031.6014"
+     inkscape:cx="3921.67"
+     inkscape:cy="1732.9116"
      inkscape:document-units="mm"
-     inkscape:current-layer="g7863"
+     inkscape:current-layer="g90102"
      showgrid="false"
      units="px"
      inkscape:window-width="1364"
@@ -739,7 +755,7 @@
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="1"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:lockguides="false" />
   <metadata
@@ -754,6 +770,587 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <g
+     transform="translate(0,740.83333)"
+     inkscape:groupmode="layer"
+     id="g1671"
+     inkscape:label="Scan Signature"
+     style="display:inline">
+    <g
+       inkscape:label="background"
+       inkscape:groupmode="layer"
+       id="g1579"
+       transform="translate(0,496.75003)"
+       style="display:inline">
+      <rect
+         style="opacity:1;fill:#1d1d1d;fill-opacity:1;stroke:#40428f;stroke-width:0.52945471;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647"
+         id="rect1575"
+         width="332.84555"
+         height="586.92352"
+         x="833.11005"
+         y="-445.06216"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature-message.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path1577"
+         d="m 835.28611,-402.00403 -2.4406,543.85617 332.16369,-1.30257 -0.2441,-541.76396 z"
+         style="display:inline;opacity:1;fill:url(#pattern1673);fill-opacity:1;stroke:none;stroke-width:1.08645272px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature-message.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g1587"
+       inkscape:label="button_sign"
+       style="display:inline"
+       transform="translate(0,209.55)">
+      <rect
+         y="370.17865"
+         x="848.70563"
+         height="43.089287"
+         width="301.625"
+         id="rect1581"
+         style="display:inline;fill:#b4b5b0;fill-opacity:1;stroke:none;stroke-width:0.27183351;stroke-opacity:1"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature-message.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         id="text1585"
+         y="398.12161"
+         x="946.44824"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature-message.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';fill:#f9f9f9;fill-opacity:1;stroke-width:0.26458332"
+           y="398.12161"
+           x="946.44824"
+           id="tspan1583"
+           sodipodi:role="line">Done Scanning</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g1589"
+       inkscape:label="receiver"
+       style="display:none">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature.png"
+         style="display:inline;fill:#f9f9f9;fill-opacity:1;stroke-width:0.27768928"
+         id="rect9023-5-9"
+         width="301.625"
+         height="60.854168"
+         x="849.17358"
+         y="477.10226" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:16.93333244px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="907.68555"
+         y="503.39465"
+         id="text9027-6-2"><tspan
+           sodipodi:role="line"
+           x="907.68555"
+           y="503.39465"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:16.93333244px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Ultra-Bold';opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.52819526;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647"
+           id="tspan9025-2-2">Fleischerei Berlin</tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:25.39999962px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#b4b5b0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="908.01782"
+         y="525.50793"
+         id="text9031-9-8"><tspan
+           sodipodi:role="line"
+           id="tspan9029-1-9"
+           x="908.01782"
+           y="525.50793"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#b4b5b0;fill-opacity:1;stroke-width:0.26458332">0x0bed7abd61247635c1973eb38474a2516ed1d884</tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#b4b5b0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="848.34802"
+         y="463.13626"
+         id="text9043-2-7"><tspan
+           sodipodi:role="line"
+           id="tspan9041-7-3"
+           x="848.34802"
+           y="463.13626"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';fill:#b4b5b0;fill-opacity:1;stroke-width:0.26458332">RECEIVER</tspan></text>
+      <image
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature.png"
+         transform="scale(1,-1)"
+         width="40.745998"
+         height="40.745998"
+         preserveAspectRatio="none"
+         style="display:inline;image-rendering:optimizeSpeed"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAYAAAA6/NlyAAAABHNCSVQICAgIfAhkiAAAAPxJREFU aIHtmsEJAkEMRR0ZrGP2ZEuWYAdqBWIFWoIteZo69DI2MEE+JC78/Hec3SV5BLIhTLmf32OTiO3a CfwbCbMjYXaq9eD23LsEOB1e0PvRcdNVWMLsSJgds0tbXc6ri3qB/gXSVVjC7EiYnTLGmG48lmWZ frBW90bj9t6n5+kqLGF2JMxOtbqx1eUelw8UIHrjYeVpeaWrsITZkTA7Fe2iFl4zdnQ+6SosYXYk zI65l46esVGO1930HN3MpKuwhNmRMDultQbdxPOadb1AZ/V0FZYwOxJmJ/yOR/ReGs0zXYUlzI6E 2XGbpdGNhAW6UdEs/QMJsyNhdr4hF034FiHlLQAAAABJRU5ErkJggg== "
+         id="image8985-0-6"
+         x="859.75708"
+         y="-527.90222" />
+      <rect
+         y="537.42725"
+         x="849.17358"
+         height="19.84375"
+         width="301.625"
+         id="rect89483-1-1"
+         style="display:inline;opacity:1;fill:#9778f9;fill-opacity:1;stroke-width:0.51618099"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="1099.5635"
+         y="550.1413"
+         id="text89487-8-2"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           x="1099.5635"
+           y="550.1413"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#f9f9f9;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan89485-7-9">Ethereum</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="from">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature-message.png"
+         style="display:inline;fill:#f9f9f9;fill-opacity:1;stroke-width:0.27768928"
+         id="rect7865-3"
+         width="301.625"
+         height="60.854168"
+         x="849.08453"
+         y="476.6333" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature-message.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:16.93333244px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="907.59637"
+         y="502.92572"
+         id="text7869-2"><tspan
+           sodipodi:role="line"
+           x="907.59637"
+           y="502.92572"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:16.93333244px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Ultra-Bold';opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.52819526;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647"
+           id="tspan7867-0">Small Change</tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature-message.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:25.39999962px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#b4b5b0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="907.92865"
+         y="525.03882"
+         id="text7873-61"><tspan
+           sodipodi:role="line"
+           id="tspan7871-5"
+           x="907.92865"
+           y="525.03882"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#b4b5b0;fill-opacity:1;stroke-width:0.26458332">0x0bed7abd61247635c1973eb38474a2516ed1d884</tspan></text>
+      <image
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature-message.png"
+         y="486.88519"
+         x="858.37469"
+         id="image7875-5"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAYAAAA6/NlyAAAABHNCSVQICAgIfAhkiAAAAPNJREFU aIHtmrENAjEMRQmKmCOpWIkR2ACYADEBjMBKVJkDmtBQ2kJGNid9/1f6dDk/WfJZVsr1+JyrRKyX TuDfUBgdCqNTtQeX+1aMH3aPsGR+wZpnugpTGB0Ko1PmnOIsfTu9xBe0rqhh7epe5+/PGzGersIU RofC6FStG2uMMcR4790jH/N3tfy1eLoKUxgdCqNTWmviLO212Yieva3fTVdhCqNDYXSq1hW5lwaB wuhQGJ3idcfDOjNb8fo7pKswhdGhMDrhG4+l4MbjA4XRoTA6ape2Yt2cRJ+jka7CFEaHwuiE38SL hjfxvkBhdCiMzhvThE0BOQ4NsAAAAABJRU5ErkJggg== "
+         style="display:inline;image-rendering:optimizeSpeed"
+         preserveAspectRatio="none"
+         height="40.745831"
+         width="40.745831" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature-message.png"
+         style="display:inline;opacity:1;fill:#9778f9;fill-opacity:1;stroke-width:0.51618099"
+         id="rect7877-4"
+         width="301.625"
+         height="19.84375"
+         x="849.08453"
+         y="536.95825" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature-message.png"
+         id="text7881-7"
+         y="549.6723"
+         x="1099.4744"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan7879-6"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#f9f9f9;fill-opacity:1;stroke-width:0.26458332"
+           y="549.6723"
+           x="1099.4744"
+           sodipodi:role="line">Ethereum</tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature-message.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#b4b5b0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="848.25903"
+         y="462.6673"
+         id="text7885-5"><tspan
+           sodipodi:role="line"
+           id="tspan7883-6"
+           x="848.25903"
+           y="462.6673"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';fill:#b4b5b0;fill-opacity:1;stroke-width:0.26458332">SIGNED WITH ACCOUNT</tspan></text>
+    </g>
+    <g
+       transform="translate(0,209.55)"
+       style="display:none"
+       inkscape:label="transaction_details"
+       id="g1639"
+       inkscape:groupmode="layer">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature.png"
+         style="display:inline;fill:#f9f9f9;fill-opacity:1;stroke-width:0.31900868"
+         id="rect9023-5-9-3"
+         width="301.625"
+         height="80.311386"
+         x="849.48346"
+         y="148.07732" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:16.93333244px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="938.38232"
+         y="194.2114"
+         id="text1060-0-6-6-2"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           x="938.38232"
+           y="194.2114"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:19.75555611px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Ultra-Bold';opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.52819526;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647"
+           id="tspan165422-6-5-9-9">3.25159</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:16.93333244px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#b4b5b0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="1015.6404"
+         y="194.31018"
+         id="text1060-0-6-6-3-1"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           x="1015.6404"
+           y="194.31018"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:19.75555611px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Ultra-Bold';opacity:1;vector-effect:none;fill:#b4b5b0;fill-opacity:1;stroke:none;stroke-width:0.52819526;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647"
+           id="tspan165422-6-5-9-7-2">ETH</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="874.07593"
+         y="168.30763"
+         id="text176143-8-8"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           x="874.07593"
+           y="168.30763"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;stroke-width:0.26458332"
+           id="tspan88196-5">Scanning and publishing this transaction will send:</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="876.68591"
+         y="214.52748"
+         id="text176143-8-8-0"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           x="876.68591"
+           y="214.52748"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;stroke-width:0.26458332"
+           id="tspan88196-5-3">Once completed, you will no longer have this ETH</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g90102"
+       inkscape:label="signed_message"
+       style="display:inline"
+       transform="translate(0,209.55)">
+      <rect
+         y="150.19395"
+         x="849.48346"
+         height="79.306229"
+         width="301.625"
+         id="rect90084"
+         style="display:inline;fill:#f9f9f9;fill-opacity:1;stroke-width:0.31700605"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature-message.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature-message.png"
+         id="text90096"
+         y="197.41141"
+         x="998.15179"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#b4b5b0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#b4b5b0;fill-opacity:1;stroke-width:0.26458332"
+           y="197.41141"
+           x="998.15179"
+           sodipodi:role="line"
+           id="tspan90209">Publishing this signature allows anyone to verify</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#b4b5b0;fill-opacity:1;stroke-width:0.26458332"
+           y="210.64058"
+           x="998.15179"
+           sodipodi:role="line"
+           id="tspan90217">that this <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#b4b5b0;fill-opacity:1"
+   id="tspan90219">Ethereum</tspan> account signed it</tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature-message.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:25.39999962px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1d1d1d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="866.18066"
+         y="175.20502"
+         id="text7873-6-0"><tspan
+           sodipodi:role="line"
+           x="866.18066"
+           y="175.20502"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#1d1d1d;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan90157">&quot;I Hans Gruvenbeats agree to rent apparement...&quot;</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g1615"
+       inkscape:label="transaction_qr"
+       style="display:inline">
+      <rect
+         style="display:inline;fill:#f9f9f9;fill-opacity:1;stroke-width:0.43749145"
+         id="rect1595"
+         width="301.625"
+         height="151.04672"
+         x="849.74506"
+         y="194.23012"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature-message.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <image
+         sodipodi:absref="/home/user/designs/Parity/references/qr-placeholder.png"
+         y="206.28363"
+         x="1012.357"
+         id="image2558"
+         xlink:href="file:///home/user/designs/Parity/references/qr-placeholder.png"
+         preserveAspectRatio="none"
+         height="127.70554"
+         width="127.70554"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature-message.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <g
+         id="use87181"
+         style="fill:#000000;stroke:none"
+         transform="matrix(6.25,0,0,6.25,916.75128,258.94148)"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature-message.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <title
+           id="title87195">laptop</title>
+        <path
+           id="path87197"
+           d="m -0.19599622,3.0166685 c -0.3638021,0 -0.6614584,-0.2976563 -0.6614584,-0.6614584 v -2.91041656 c 0,-0.3638021 0.2976563,-0.66145844 0.6614584,-0.66145844 H 4.3019204 c 0.3638021,0 0.6614584,0.29765634 0.6614584,0.66145844 V 2.3552101 c 0,0.3638021 -0.2976563,0.6614584 -0.6614584,0.6614584 z m -0.1322917,-3.57187496 V 2.3552101 c 0,0.070379 0.061913,0.1322917 0.1322917,0.1322917 H 4.3019204 c 0.070379,0 0.1322917,-0.061913 0.1322917,-0.1322917 v -2.91041656 c 0,-0.0703792 -0.061913,-0.1322917 -0.1322917,-0.1322917 h -4.49791662 c -0.0703792,0 -0.1322917,0.0619125 -0.1322917,0.1322917 z M 5.3602538,3.2812518 h 0.6614583 v 0.396875 c 0,0.219075 -0.2976563,0.396875 -0.6614583,0.396875 h -6.6145834 c -0.3638021,0 -0.6614583,-0.1778 -0.6614583,-0.396875 v -0.396875 z m -2.9765625,0.396875 c 0.037306,0 0.066146,-0.02884 0.066146,-0.066146 0,-0.037306 -0.02884,-0.066146 -0.066146,-0.066146 H 1.7222329 c -0.037306,0 -0.066146,0.02884 -0.066146,0.066146 0,0.037306 0.02884,0.066146 0.066146,0.066146 z"
+           inkscape:connector-curvature="0"
+           style="stroke-width:0.26458332" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:16.93333244px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1d1d1d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="878.45435"
+         y="228.3196"
+         id="text1060-0-6-7"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature-message.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           x="878.45435"
+           y="228.3196"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:16.93333244px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Ultra-Bold';opacity:1;vector-effect:none;fill:#1d1d1d;fill-opacity:1;stroke:none;stroke-width:0.52819526;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647"
+           id="tspan165422-6-5-5">Scan QR Code</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="929.11652"
+         y="312.65454"
+         id="text176143-8"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature-message.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           x="930.5166"
+           y="312.65454"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           id="tspan88194">Scan this on the device that </tspan><tspan
+           sodipodi:role="line"
+           x="929.11652"
+           y="326.76566"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           id="tspan88196">displaye the message</tspan></text>
+      <text
+         id="text1637-1"
+         y="179.64998"
+         x="850.1532"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#b4b5b0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature-message.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';fill:#b4b5b0;fill-opacity:1;stroke-width:0.26458332"
+           y="179.64998"
+           x="850.1532"
+           id="tspan1635-9"
+           sodipodi:role="line">SIGNATURE DETAILS</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g1645"
+       inkscape:label="text"
+       style="display:inline"
+       transform="translate(0,209.55)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#b4b5b0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="906.38678"
+         y="-64.604401"
+         id="text1643"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature-message.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan1641"
+           x="906.38678"
+           y="-64.604401"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.39999962px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';fill:#b4b5b0;fill-opacity:1;stroke-width:0.26458332">SCAN SIGNATURE</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g1669"
+       inkscape:label="topbar"
+       style="display:inline"
+       transform="translate(0,209.55)">
+      <rect
+         style="display:inline;opacity:1;fill:#7ff000;fill-opacity:0;stroke:none;stroke-width:0.13055393;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647"
+         id="rect1647"
+         width="332.88589"
+         height="35.682171"
+         x="833.29803"
+         y="-157.63652"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature-message.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="display:inline;opacity:1;fill:#1d1d1d;fill-opacity:1;stroke:none;stroke-width:0.53097576;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647"
+         id="rect1649"
+         width="333.375"
+         height="43.089287"
+         x="832.84552"
+         y="-157.89342"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature-message.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="888.05743"
+         y="-131.97874"
+         id="text1653"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature-message.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan1651"
+           x="888.05743"
+           y="-131.97874"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.75555611px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">parity</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.06720092;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 865.38471,-149.33348 -15.576,9.7324 2.0481,3.27751 4.3197,-2.67699 v -2.0951 h 3.3808 l 7.9114,-4.90282 z m 2.6287,4.20653 -6.5051,4.03129 h 7.2845 l 1.2541,-0.7772 z m 2.5781,4.12552 -1.6478,1.02117 v 1.89009 h -3.05 l -4.2305,2.62174 h 6.9014 l 3.9535,-2.44996 z m -13.9331,2.91126 -4.2569,2.63808 2.0334,3.2541 1.7539,-1.08686 v -2.18358 h 3.5235 l 4.2306,-2.62174 z m 16.4043,1.04326 -4.1067,2.54502 v 2.0389 h -3.2901 l -8.2152,5.09099 2.0909,3.34592 15.5761,-9.73234 z m -16.2492,4.58392 -1.8339,1.13653 1.9265,3.08293 6.8088,-4.21946 z"
+         id="path1655"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature-message.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:0.35441342;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 1166.244,-114.80501 H 832.84931"
+         id="path1657"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature-message.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <g
+         id="g1663"
+         transform="translate(826.28521,-158.12078)"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature-message.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           sodipodi:nodetypes="ccscscc"
+           id="path1659"
+           d="m 258.89327,12.479232 -6.92728,3.078788 v 4.618181 c 0,4.275667 2.95179,8.262697 6.92728,9.236364 3.97548,-0.973667 6.92727,-4.960697 6.92727,-9.236364 V 15.55802 Z"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.38484848" />
+        <use
+           transform="matrix(1.4545455,0,0,1.4545455,249.6569,11.709535)"
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           xlink:href="#symbol78675"
+           style="display:inline;fill:#6de95a;fill-opacity:1;stroke:none"
+           id="use1661" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#6de95a;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="1100.2222"
+         y="-131.63976"
+         id="text1667"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature-message.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan1665"
+           x="1100.2222"
+           y="-131.63976"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.11111069px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#6de95a;fill-opacity:1;stroke-width:0.26458332">Secured</tspan></text>
+    </g>
+  </g>
   <g
      style="display:inline"
      inkscape:label="Sign Message"
@@ -808,14 +1405,29 @@
          inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-message.png"
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1d1d1d;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="552.14301"
+         x="554.2597"
          y="398.12161"
          id="text7797"><tspan
            sodipodi:role="line"
            id="tspan7795"
-           x="552.14301"
+           x="554.2597"
            y="398.12161"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;font-family:'Manifold CF';-inkscape-font-specification:'Manifold CF Bold';fill:#1d1d1d;fill-opacity:1;stroke-width:0.26458332">Sign Message</tspan></text>
+      <g
+         id="use89971-6"
+         style="fill:#1d1d1d;fill-opacity:1;stroke:none"
+         transform="matrix(1.3335185,0,0,1.3335185,1117.0877,162.96021)"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/scan-signature-message.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <title
+           id="title90115">Create</title>
+        <path
+           id="path90117"
+           d="M 1.5875,9.128125 V 11.1125 H 3.571875 L 9.4271042,5.2572708 7.4427292,3.2728958 Z m 9.368896,-5.4001458 c 0.206375,-0.206375 0.206375,-0.5423959 0,-0.7487709 L 9.7207917,1.7436042 c -0.206375,-0.206375 -0.5423959,-0.206375 -0.7487709,0 l -0.968375,0.968375 1.984375,1.984375 z"
+           inkscape:connector-curvature="0"
+           style="fill:#1d1d1d;fill-opacity:1;stroke-width:0.26458332" />
+      </g>
     </g>
     <g
        inkscape:label="receiver"
@@ -846,10 +1458,10 @@
          inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-message.png"
          y="315.51758"
          x="460.27255"
-         height="139.37769"
+         height="162.57668"
          width="301.625"
          id="rect7829"
-         style="display:inline;fill:#f9f9f9;fill-opacity:1;stroke-width:0.42025271" />
+         style="display:inline;fill:#f9f9f9;fill-opacity:1;stroke-width:0.45388207" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -899,6 +1511,20 @@
            y="438.9007"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.26458332"
            id="tspan176981">the amount due.</tspan></text>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/user/designs/Parity/interfaces/mobile-signer/PNGs/sign-message.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:25.39999962px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#b4b5b0;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="632.09613"
+         y="460.27771"
+         id="text7873-6"><tspan
+           sodipodi:role="line"
+           id="tspan7871-1"
+           x="632.09613"
+           y="460.27771"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#b4b5b0;fill-opacity:1;stroke-width:0.26458332">Show Raw Message Data</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
